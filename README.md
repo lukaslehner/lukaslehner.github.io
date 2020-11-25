@@ -1,2 +1,2 @@
 # lukaslehner.github.io
-This is my github website to share my work.
+This is my work-in-progress website to share my work: https://lukaslehner.github.io/
