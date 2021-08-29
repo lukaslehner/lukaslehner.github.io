@@ -21,13 +21,13 @@
 title: Lukas Lehner
 email: lukas.lehner@spi.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD student at the University of Oxford.
+  PhD student at the University of Oxford
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lukaslehner_
 github_username:  lukaslehner
 linkedin_username: lukas-lehner
-author_website: supertracker.spi.ox.ac.uk
+author_website: https://supertracker.spi.ox.ac.uk/
 author_display: true
 # googlescholar_link: 
 uni_link: https://www.spi.ox.ac.uk/people/lukas-lehner#/
