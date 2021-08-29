@@ -49,6 +49,10 @@
   h3{
     margin-top:0;
   }
+
+  @include media-query($on-palm){
+    text-align:center;
+  }
 }
 
 #top .button{
