@@ -31,15 +31,15 @@ permalink: /outreach/
 
 ### Presentations
 
-“In-work poverty, labour market policies and Social Dialogue”, at the European Trade Union Institute (ETUI), Brussels, 06/2021. [slides](https://lukaslehner.github.io/assets/in-work-poverty-etui.pdf){: .button}
+“In-work poverty, labour market policies and Social Dialogue”, at the European Trade Union Institute (ETUI), Brussels (virtual), 06/2021. [slides](https://lukaslehner.github.io/assets/in-work-poverty-etui.pdf){: .button}
 
-"Tracking Policy Responses to COVID-19: Opportunities and Challenges", at the COVID-19 Public Health and Social Measures (PHSMs) Data Coverage Conference. [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button} [slides](https://lukaslehner.github.io/assets/supertracker-phsm-data-conference.pdf){: .button}
+"Tracking Policy Responses to COVID-19: Opportunities and Challenges", at the COVID-19 Public Health and Social Measures (PHSMs) Data Coverage Conference (virtual). [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button} [slides](https://lukaslehner.github.io/assets/supertracker-phsm-data-conference.pdf){: .button}
 
-OECD Careers Talk with application advice for the Young Associates Programme, November 2021. [video](https://www.linkedin.com/video/live/urn:li:ugcPost:6744951162480431104/){: .button}
+OECD Careers Talk with application advice for the Young Associates Programme, at the OECD (virtual), November 2021. [video](https://www.linkedin.com/video/live/urn:li:ugcPost:6744951162480431104/){: .button}
 
-“Trade union involvement in tackling the effects of the crisis on employment”, at the European Trade Union Institute (ETUI), Brussels, 11/2020. [slides](https://lukaslehner.github.io/assets/trade-union-covid-employment-crisis-etui.pdf){: .button}
+“Trade union involvement in tackling the effects of the crisis on employment”, at the European Trade Union Institute (ETUI), Brussels (virtual), 11/2020. [slides](https://lukaslehner.github.io/assets/trade-union-covid-employment-crisis-etui.pdf){: .button}
 
-"Tracking Policy Responses to COVID-19: Herausforderungen und Lösungsansätze", at Netzpolitischer Abend, Vienna, 09/2020, (in German). [video](https://youtu.be/KnX57fhrIMk?t=132){: .button}
+"Tracking Policy Responses to COVID-19: Herausforderungen und Lösungsansätze", at Netzpolitischer Abend, Vienna (virtual), 09/2020, (in German). [video](https://youtu.be/KnX57fhrIMk?t=132){: .button}
 
 “Effectiveness of Active Labour Market Policies across Europe“, at the European Trade Union Institute (ETUI), Brussels, 01/2020. [slides](https://lukaslehner.github.io/assets/almp-etui.pdf){: .button}.
 
