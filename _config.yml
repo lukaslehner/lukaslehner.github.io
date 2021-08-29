@@ -35,6 +35,7 @@ uni_link: https://www.spi.ox.ac.uk/people/lukas-lehner#/
 
 # Build settings
 theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
