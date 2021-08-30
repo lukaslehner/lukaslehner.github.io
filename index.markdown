@@ -14,4 +14,4 @@ My research focus is on labour market policies. I study the reasons for slow wag
 
 My work has been featured by CNN, the Financial Times, Forbes and Nature among other outlets. Prior to my doctoral studies, I worked as a Young Associate Economist at the OECD Economics Department in Paris and as a Junior Economist at the International Labour Organization in Geneva.
 
-If you are interested in my research, feel free to reach out via [e-mail](mailto:lukas.lehner@spi.ox.ac.uk) or drop me a message on [Twitter](https://twitter.com/LukasLehner_){:target="_blank"}.
+If you are interested in my research, feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk) or [twitter](https://twitter.com/LukasLehner_){:target="_blank"}.
