@@ -7,7 +7,7 @@ The initial website theme is based on <a target="_blank" href="https://github.co
 
 Feel free to reach out if you have any questions about my research: \
 E-mail: [lukas.lehner@spi.ox.ac.uk](mailto:lukas.lehner@spi.ox.ac.uk) \
-Twitter: ([@lukaslehner_](https://twitter.com/LukasLehner_))
+Twitter: [@lukaslehner_](https://twitter.com/LukasLehner_)
 
 **Department of Social Policy and Intervention** \
 University of Oxford \
