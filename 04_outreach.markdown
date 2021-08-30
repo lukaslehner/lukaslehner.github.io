@@ -7,15 +7,17 @@ permalink: /outreach/
 
 ## Outreach
 
-### Commentaries and Blogs
+### Policy Briefs
+
+- “[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}”, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas).
+
+### Columns and Blogs
 
 - “[Labour hoarding during the pandemic: Assessing the impact of job retention schemes in Europe](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}”, LSE EUROPP: European Politics and Policy Blog, 06/2021 (joint with Bernhard Ebbinghaus).
 
 - “[A Year of Tracking Government Responses to COVID-19: Challenges and Lessons Learned from the Global Data Collection Efforts Around the World](https://phsmconference.files.wordpress.com/2021/04/phsm_lessons_learned_final_statement-2.pdf){:target="_blank"}”, Shared Statement by the Public Health and Social Measures Trackers participating in the First COVID-19 PHSMs Data Coverage Conference, 03/2021 (joint with Cindy Cheng, Luca Messerschmidt et al.).
 
-- “[The lockdown tweet that launched a COVID-19 ‘supertracker’](https://www.nature.com/articles/d41586-020-02760-0){:target="_blank"}”, Nature Career Column, 09/2020, https://doi.org/10.1038/d41586-020-02760-0.
-
-- “[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}”, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas).
+- “[The lockdown tweet that launched a COVID-19 ‘supertracker’](https://www.nature.com/articles/d41586-020-02760-0){:target="_blank"}”, Nature Career Column, 09/2020<!--,  https://doi.org/10.1038/d41586-020-02760-0 -->.
 
 - “[Die soziale Frage als Baustein einer kollektiven europäischen Identität](http://www.debattieren.at/?p=414&fbclid=IwAR0bPdaAZ30KYTUvdc56XOekLUJ5q6DUyayHxnJGvRvzSbvVFeZxy9CxRdA){:target="_blank"}“, Debattieren.at – die Plattform für Debatten, 08/2018.
 
@@ -43,11 +45,11 @@ permalink: /outreach/
 
 - “Effectiveness of Active Labour Market Policies across Europe“, at the European Trade Union Institute (ETUI), Brussels, 01/2020. [slides](https://lukaslehner.github.io/assets/almp-etui.pdf){: .button}{:target="_blank"}
 
-### Interviews
+### Interviews and Media Quotes
 
 - "[Jobgarantie für Langzeitarbeitslose: Die Arbeiter von Marienthal](https://www.zeit.de/2021/33/jobgarantie-langzeitarbeitslose-experiment-gramatneusiedl-oesterreich-arbeitslosigkeit){:target="_blank"}", Die Zeit, 08/2021.
 
-- “[Arbeitsplatzgarantie](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){:target="_blank"}”, Renner Institut Steiermark (Podcast), 04/2021.
+- “[Arbeitsplatzgarantie](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){:target="_blank"}”, Renner Institut Steiermark, 04/2021. [podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){: .button}{:target="_blank"}
 
 - “[Österreich mit europaweit schlimmstem Wirtschaftseinbruch.](https://zackzack.at/2021/02/03/oesterreich-mit-europaweit-schlimmstem-wirtschaftseinbruch-wirtschaft-zerlegt-sich/){:target="_blank"}“, ZackZack, 02/2021.
 
