@@ -5,7 +5,7 @@ permalink: /imprint/
 
 The initial website theme is based on <a target="_blank" href="https://github.com/gaalcaras/academic">Academic</a> by [Gabriel Alcaras](https://gaalcaras.com/en/). I have implemented some adjustments that you can find in my [GitHub repository](https://github.com/lukaslehner/lukaslehner.github.io).
 
-Feel free to reach out if you have any questions about my research: \
+Feel free to reach out if you are interested in my research: \
 E-mail: [lukas.lehner@spi.ox.ac.uk](mailto:lukas.lehner@spi.ox.ac.uk) \
 Twitter: [@lukaslehner_](https://twitter.com/LukasLehner_)
 
