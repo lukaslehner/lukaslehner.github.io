@@ -1,0 +1,7 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
+<a href="lukaslehner.github.io/assets/In-Work-Poverty-ETUI.pdf" target="_blank">PDF</a>
