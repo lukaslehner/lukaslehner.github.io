@@ -32,6 +32,10 @@ author_display: true
 # googlescholar_link: 
 uni_link: https://www.spi.ox.ac.uk/people/lukas-lehner#/
 
+nav_ext_links:
+  - name: CV
+    url: https://lukaslehner.github.io/assets/in-work-poverty-etui.pdf
+
 # Build settings
 theme: academic
 remote_theme: gaalcaras/academic
