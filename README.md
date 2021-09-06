@@ -1,4 +1,12 @@
 # lukaslehner.github.io
-Soon you will be able to access my academic website here: https://lukaslehner.github.io/.
+This is the repository for my academic website: https://lukaslehner.github.io/.
 
-In the meantime, you can find more about my work on my university webpage: https://www.inet.ox.ac.uk/people/lukas-lehner/.
+The initial website theme is based on *[Academic](https://github.com/gaalcaras/academic)* by [Gabriel Alcaras](https://gaalcaras.com/en/). I have implemented some adjustments that you can find in this repository.
+
+My academic CV is written in Markdown and converted to LaTeX using Knit. The template and code is based on [Alex Albright](https://github.com/apalbright/CV) and [Steven Miller](http://svmiller.com/).
+
+You can find more about my work on my university webpage: https://www.inet.ox.ac.uk/people/lukas-lehner/.
+
+Feel free to reach out if you have any questions:  \
+E-mail: [lukas.lehner@spi.ox.ac.uk](mailto:lukas.lehner@spi.ox.ac.uk) \
+Twitter: [@lukaslehner_](https://twitter.com/LukasLehner_)
