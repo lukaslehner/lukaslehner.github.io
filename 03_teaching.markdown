@@ -15,4 +15,6 @@ permalink: /teaching/
 
 ### Vienna University of Economics and Business (WU)
 
+- Supervisor of undergraduate theses \hfill since 2021
+
 - Teaching Assistant for *International Macroeconomics* (UG) 2014 – 2015.
