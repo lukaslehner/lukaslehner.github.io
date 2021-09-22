@@ -47,8 +47,10 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 
+- "[Ist das Arbeitslosengeld zu niedrig oder zu hoch? Wie es andere Länder machen](https://www.derstandard.at/story/2000129831650/ist-das-arbeitslosengeld-zu-niedrig-oder-zu-hoch-wie-es)", Der Standard, 09/2021.
+
 - "[Österreich hat überdurchschnittlich viele Langzeitarbeitslose](https://www.derstandard.at/story/2000129805430/oesterreich-hat-ueberdurchschnittlich-viele-langzeitarbeitslose)", Der Standard, 09/2021. \
- Additional coverage in [Die Presse](https://www.diepresse.com/6036616/osterreich-hat-uberdurchschnittlich-viele-langzeitarbeitslose), [Vorarlberg Online](https://www.vol.at/oesterreich-hat-mehr-langzeitarbeitslose-als-eu-schnitt/7130956).
+ Additional coverage in [Die Presse](https://www.diepresse.com/6036616/osterreich-hat-uberdurchschnittlich-viele-langzeitarbeitslose), [Kurier](https://kurier.at/wirtschaft/oesterreich-hat-ueberdurchschnittlich-viele-langzeitarbeitslose/401742474), [Wiener Zeitung](https://www.wienerzeitung.at/nachrichten/wirtschaft/oesterreich/2121377-Oesterreich-mit-ueberdurchschnittlich-vielen-Langzeitarbeitslosen.html), [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/ueberdurchschnittlich-viele-langzeitarbeitslose-in-oesterreich-109769227), [Tiroler Tageszeitung](https://www.tt.com/artikel/30801528/arbeitslose-erstmals-unter-vorkrisenniveau-mit-schulungen-darueber), [Vorarlberg Online](https://www.vol.at/oesterreich-hat-mehr-langzeitarbeitslose-als-eu-schnitt/7130956).
 
 - "[Arbeitslose trotz Engagement armutsgefährdet](https://oesterreich.orf.at/stories/3119573/)", ORF, 09/2021. \
  Additional coverage in ORF ZIB 1, [Heute](https://www.heute.at/s/mehrheit-schaemt-sich-fuer-ihre-arbeitslosigkeit-100161049), [Kleine Zeitung](https://www.kleinezeitung.at/wirtschaft/6028570/Mehr-als-1200-Betroffene-befragt_Studie_Worunter-Arbeitslose-in), [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/arbeitslose-oft-armutsgefaehrdet-108906430), [Vorarlberg Online](https://www.vol.at/arbeitslose-oft-armutsgefaehrdet/7111464).
