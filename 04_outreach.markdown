@@ -47,6 +47,11 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 
+- "[Arbeitslosengeld: Zumutbarkeitsregeln im unteren Mittelfeld](https://orf.at/stories/3231014/)", ORF, 10/2021. \
+Additional coverage: [Die Presse](https://www.diepresse.com/6042490/arbeitslose-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld), [Oberösterreichische Nachrichten](https://www.nachrichten.at/politik/innenpolitik/arbeitslosengeld-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld;art385,3469398).
+
+- "Universitäten "Sind wir euch egal?" Was Corona mit den Studierenden gemacht hat", profil (cover story), 10/2021.
+
 - "[Ist das Arbeitslosengeld zu niedrig oder zu hoch? Wie es andere Länder machen](https://www.derstandard.at/story/2000129831650/ist-das-arbeitslosengeld-zu-niedrig-oder-zu-hoch-wie-es)", Der Standard, 09/2021.
 
 - "[Österreich hat überdurchschnittlich viele Langzeitarbeitslose](https://www.derstandard.at/story/2000129805430/oesterreich-hat-ueberdurchschnittlich-viele-langzeitarbeitslose)", Der Standard, 09/2021. \
@@ -60,6 +65,8 @@ permalink: /outreach/
 - “[Arbeitsplatzgarantie](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){:target="_blank"}”, Renner Institut Steiermark, 04/2021. [podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){: .button}{:target="_blank"}
 
 - “[Österreich mit europaweit schlimmstem Wirtschaftseinbruch.](https://zackzack.at/2021/02/03/oesterreich-mit-europaweit-schlimmstem-wirtschaftseinbruch-wirtschaft-zerlegt-sich/){:target="_blank"}“, ZackZack, 02/2021.
+
+- "Die glücklichen Arbeitslosen von Gramatneusiedl", Profil, 02/2021.
 
 - “[Wirtschaftseinbruch noch heftiger als erwartet.](https://zackzack.at/2020/12/04/wirtschaftseinbruch-noch-schlimmer-als-erwartet-kaum-wo-heftiger-als-in-oesterreich/){:target="_blank"}“, ZackZack, 12/2020.
 
