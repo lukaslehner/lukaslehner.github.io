@@ -48,7 +48,7 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 
 - "[Arbeitslosengeld: Zumutbarkeitsregeln im unteren Mittelfeld](https://orf.at/stories/3231014/)", ORF, 10/2021. \
-Additional coverage: [Die Presse](https://www.diepresse.com/6042490/arbeitslose-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld), [Oberösterreichische Nachrichten](https://www.nachrichten.at/politik/innenpolitik/arbeitslosengeld-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld;art385,3469398).
+Additional coverage: [Die Presse](https://www.diepresse.com/6042490/arbeitslose-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld), [Salzburger Nachrichten](https://www.sn.at/suche?q=Ist+der+Druck+auf+Arbeitslose+zu+gro%C3%9F%3F++++++Im+L%C3%A4ndervergleich+liegt+%C3%96sterreich+im+unteren+Mittelfeld.#content-div1), [Oberösterreichische Nachrichten](https://www.nachrichten.at/politik/innenpolitik/arbeitslosengeld-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld;art385,3469398).
 
 - "Universitäten "Sind wir euch egal?" Was Corona mit den Studierenden gemacht hat", profil (cover story), 10/2021.
 
