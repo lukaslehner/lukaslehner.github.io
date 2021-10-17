@@ -7,7 +7,7 @@ permalink: /outreach/
 
 ## Outreach
 
-### Policy Briefs
+### Policy Reports
 
 - “[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}”, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas).
 
@@ -64,11 +64,7 @@ Additional coverage: [Die Presse](https://www.diepresse.com/6042490/arbeitslose-
 
 - “[Arbeitsplatzgarantie](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){:target="_blank"}”, Renner Institut Steiermark, 04/2021. [podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){: .button}{:target="_blank"}
 
-- “[Österreich mit europaweit schlimmstem Wirtschaftseinbruch.](https://zackzack.at/2021/02/03/oesterreich-mit-europaweit-schlimmstem-wirtschaftseinbruch-wirtschaft-zerlegt-sich/){:target="_blank"}“, ZackZack, 02/2021.
-
 - "Die glücklichen Arbeitslosen von Gramatneusiedl", Profil, 02/2021.
-
-- “[Wirtschaftseinbruch noch heftiger als erwartet.](https://zackzack.at/2020/12/04/wirtschaftseinbruch-noch-schlimmer-als-erwartet-kaum-wo-heftiger-als-in-oesterreich/){:target="_blank"}“, ZackZack, 12/2020.
 
 - "[Residents of a small Austrian town are being promised work for 3 years in the world's first universal jobs guarantee experiment](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11){:target="_blank"}", Business Insider, 12/2020.
 

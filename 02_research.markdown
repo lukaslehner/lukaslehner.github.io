@@ -23,13 +23,12 @@ Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac
 (joint with Anna Schwarz) \
 *Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}, [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}.
 
-### Under Review
-
-- "Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment" - *Revise and Resubmit* \
-(joint with Bernhard Ebbinghaus) \
-*Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}.
 
 ### Journal Publications
+
+- "Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment", *Transfer: European Review of Labour and Research*, forthcoming. 
+(joint with Bernhard Ebbinghaus) \
+*Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}.
 
 *Pre-PhD* 
 - “[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}”, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229.
