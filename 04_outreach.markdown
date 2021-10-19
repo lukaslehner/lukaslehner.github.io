@@ -47,10 +47,12 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 
+- "[Ö1 Morgenjournal: Budget und Arbeitsmarkt](https://oe1.orf.at/player/20211019/655586/1634620393345)", Ö1, 10/2021. [podcast](https://oe1.orf.at/player/20211019/655586/1634620393345){: .button}{:target="_blank"}
+
 - "[Arbeitslosengeld: Zumutbarkeitsregeln im unteren Mittelfeld](https://orf.at/stories/3231014/)", ORF, 10/2021. \
 Additional coverage: [Die Presse](https://www.diepresse.com/6042490/arbeitslose-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld), [Salzburger Nachrichten](https://www.sn.at/suche?q=Ist+der+Druck+auf+Arbeitslose+zu+gro%C3%9F%3F++++++Im+L%C3%A4ndervergleich+liegt+%C3%96sterreich+im+unteren+Mittelfeld.#content-div1), [Oberösterreichische Nachrichten](https://www.nachrichten.at/politik/innenpolitik/arbeitslosengeld-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld;art385,3469398).
 
-- "Universitäten "Sind wir euch egal?" Was Corona mit den Studierenden gemacht hat", profil (cover story), 10/2021.
+- "[Universitäten "Sind wir euch egal?" Was Corona mit den Studierenden gemacht hat](https://www.profil.at/oesterreich/oesterreichs-studierende-wir-sind-allen-scheissegal/401756349)", profil (cover story), 10/2021.
 
 - "[Ist das Arbeitslosengeld zu niedrig oder zu hoch? Wie es andere Länder machen](https://www.derstandard.at/story/2000129831650/ist-das-arbeitslosengeld-zu-niedrig-oder-zu-hoch-wie-es)", Der Standard, 09/2021.
 
@@ -64,7 +66,7 @@ Additional coverage: [Die Presse](https://www.diepresse.com/6042490/arbeitslose-
 
 - “[Arbeitsplatzgarantie](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){:target="_blank"}”, Renner Institut Steiermark, 04/2021. [podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){: .button}{:target="_blank"}
 
-- "Die glücklichen Arbeitslosen von Gramatneusiedl", Profil, 02/2021.
+- "[Die glücklichen Arbeitslosen von Gramatneusiedl](https://www.profil.at/wirtschaft/die-gluecklichen-arbeitslosen-von-gramatneusiedl/401774907)", profil, 02/2021.
 
 - "[Residents of a small Austrian town are being promised work for 3 years in the world's first universal jobs guarantee experiment](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11){:target="_blank"}", Business Insider, 12/2020.
 
