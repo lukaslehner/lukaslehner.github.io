@@ -31,5 +31,5 @@ Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac
 *Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}.
 
 *Pre-PhD* 
-- “[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}”, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229.
+- “[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}”, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229. \
 *Summary:* [LSE NETUF Blog](http://blogs.lse.ac.uk/netuf/2018/01/02/has-austrias-decade-long-revival-of-neo-corporatism-come-to-an-end/?subscribe=success#blog_subscription-2){:target="_blank"}, [Arbeit und Wirtschaft Blog](https://www.awblog.at/ist-oesterreichs-revival-der-sozialpartner-nach-einem-jahrzehnt-am-ende/){:target="_blank"}.
