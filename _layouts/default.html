@@ -18,7 +18,12 @@
     gtag('config', 'UA-163872740-2');
   </script>
 
-  
+  <script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      document.querySelector('.site-nav').setAttribute('onclick', '()=>{}');
+    });
+  </script>
+
   <body id="top">
 
     {% include header.html %}
