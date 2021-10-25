@@ -7,7 +7,7 @@ permalink: /outreach/
 
 ## Outreach
 
-### Policy Briefs
+### Policy Reports
 
 - “[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}”, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas).
 
@@ -31,13 +31,13 @@ permalink: /outreach/
 
 - “[Eine gemeinsame Arbeitslosenversicherung für Europa](https://blog.wipol.at/2013/11/25/eine-gemeinsame-arbeitslosenversicherung-fur-europa/){:target="_blank"}“, Wipol Blog 11/2013.
 
-### Selected Presentations
+### Presentations to policymakers and the public
 
 - “In-work poverty, labour market policies and Social Dialogue”, at the European Trade Union Institute (ETUI), Brussels (virtual), 06/2021. [slides](https://lukaslehner.github.io/assets/in-work-poverty-etui.pdf){: .button}{:target="_blank"}
 
 - "Tracking Policy Responses to COVID-19: Opportunities and Challenges", at the COVID-19 Public Health and Social Measures (PHSMs) Data Coverage Conference (virtual). [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button}{:target="_blank"} [slides](https://lukaslehner.github.io/assets/supertracker-phsm-data-conference.pdf){: .button}{:target="_blank"}
 
-- OECD Careers Talk with application advice for the Young Associates Programme, at the OECD (virtual), November 2021. [video](https://www.linkedin.com/video/live/urn:li:ugcPost:6744951162480431104/){: .button}{:target="_blank"}
+- OECD Careers Talk, at the OECD (virtual) November 2021. [video](https://www.linkedin.com/video/live/urn:li:ugcPost:6744951162480431104/){: .button}{:target="_blank"}
 
 - “Trade union involvement in tackling the effects of the crisis on employment”, at the European Trade Union Institute (ETUI), Brussels (virtual), 11/2020. [slides](https://lukaslehner.github.io/assets/trade-union-covid-employment-crisis-etui.pdf){: .button}{:target="_blank"}
 
@@ -47,19 +47,28 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 
-- "[Österreich hat überdurchschnittlich viele Langzeitarbeitslose](https://www.derstandard.at/story/2000129805430/oesterreich-hat-ueberdurchschnittlich-viele-langzeitarbeitslose)", Der Standard, 09/2021. \
- Additional coverage in [Die Presse](https://www.diepresse.com/6036616/osterreich-hat-uberdurchschnittlich-viele-langzeitarbeitslose), [Vorarlberg Online](https://www.vol.at/oesterreich-hat-mehr-langzeitarbeitslose-als-eu-schnitt/7130956).
+- "[Ö1 Saldo: Forschungsprojekt Arbeitslosenversicherung](https://oe1.orf.at/player/20211022/655766/1634888512000){:target="_blank"}". Ö1, 10/2021. [radio](https://oe1.orf.at/player/20211022/655766/1634888512000){: .button}{:target="_blank"}
 
-- "[Arbeitslose trotz Engagement armutsgefährdet](https://oesterreich.orf.at/stories/3119573/)", ORF, 09/2021. \
- Additional coverage in ORF ZIB 1, [Heute](https://www.heute.at/s/mehrheit-schaemt-sich-fuer-ihre-arbeitslosigkeit-100161049), [Kleine Zeitung](https://www.kleinezeitung.at/wirtschaft/6028570/Mehr-als-1200-Betroffene-befragt_Studie_Worunter-Arbeitslose-in), [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/arbeitslose-oft-armutsgefaehrdet-108906430), [Vorarlberg Online](https://www.vol.at/arbeitslose-oft-armutsgefaehrdet/7111464).
+- "[Ö1 Morgenjournal: Budget und Arbeitsmarkt](https://oe1.orf.at/player/20211019/655586/1634620393345){:target="_blank"}", Ö1, 10/2021. [radio](https://oe1.orf.at/player/20211019/655586/1634620393345){: .button}{:target="_blank"}
+
+- "[Arbeitslosengeld: Zumutbarkeitsregeln im unteren Mittelfeld](https://orf.at/stories/3231014/){:target="_blank"}", ORF, 10/2021. \
+*Additional coverage*: [Die Presse](https://www.diepresse.com/6042490/arbeitslose-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld){:target="_blank"}, [Salzburger Nachrichten](https://www.sn.at/suche?q=Ist+der+Druck+auf+Arbeitslose+zu+gro%C3%9F%3F++++++Im+L%C3%A4ndervergleich+liegt+%C3%96sterreich+im+unteren+Mittelfeld.#content-div1){:target="_blank"}, [Oberösterreichische Nachrichten](https://www.nachrichten.at/politik/innenpolitik/arbeitslosengeld-zumutbarkeitsregeln-anfangs-im-unteren-mittelfeld;art385,3469398){:target="_blank"}.
+
+- "[Universitäten "Sind wir euch egal?" Was Corona mit den Studierenden gemacht hat](https://www.profil.at/oesterreich/oesterreichs-studierende-wir-sind-allen-scheissegal/401756349){:target="_blank"}", profil *(cover story)*, 10/2021.
+
+- "[Ist das Arbeitslosengeld zu niedrig oder zu hoch? Wie es andere Länder machen](https://www.derstandard.at/story/2000129831650/ist-das-arbeitslosengeld-zu-niedrig-oder-zu-hoch-wie-es){:target="_blank"}", Der Standard, 09/2021.
+
+- "[Österreich hat überdurchschnittlich viele Langzeitarbeitslose](https://www.derstandard.at/story/2000129805430/oesterreich-hat-ueberdurchschnittlich-viele-langzeitarbeitslose){:target="_blank"}", Der Standard, 09/2021. \
+ *Additional coverage*: [Die Presse](https://www.diepresse.com/6036616/osterreich-hat-uberdurchschnittlich-viele-langzeitarbeitslose){:target="_blank"}, [Kurier](https://kurier.at/wirtschaft/oesterreich-hat-ueberdurchschnittlich-viele-langzeitarbeitslose/401742474){:target="_blank"}, [Wiener Zeitung](https://www.wienerzeitung.at/nachrichten/wirtschaft/oesterreich/2121377-Oesterreich-mit-ueberdurchschnittlich-vielen-Langzeitarbeitslosen.html){:target="_blank"}, [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/ueberdurchschnittlich-viele-langzeitarbeitslose-in-oesterreich-109769227){:target="_blank"}, [Tiroler Tageszeitung](https://www.tt.com/artikel/30801528/arbeitslose-erstmals-unter-vorkrisenniveau-mit-schulungen-darueber){:target="_blank"}, [Vorarlberg Online](https://www.vol.at/oesterreich-hat-mehr-langzeitarbeitslose-als-eu-schnitt/7130956){:target="_blank"}.
+
+- "[Arbeitslose trotz Engagement armutsgefährdet](https://oesterreich.orf.at/stories/3119573/){:target="_blank"}", ORF, 09/2021. \
+ *Additional coverage*: ORF ZIB 1, [Heute](https://www.heute.at/s/mehrheit-schaemt-sich-fuer-ihre-arbeitslosigkeit-100161049){:target="_blank"}, [Kleine Zeitung](https://www.kleinezeitung.at/wirtschaft/6028570/Mehr-als-1200-Betroffene-befragt_Studie_Worunter-Arbeitslose-in){:target="_blank"}, [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/arbeitslose-oft-armutsgefaehrdet-108906430){:target="_blank"}, [Vorarlberg Online](https://www.vol.at/arbeitslose-oft-armutsgefaehrdet/7111464){:target="_blank"}.
 
 - "[Jobgarantie für Langzeitarbeitslose: Die Arbeiter von Marienthal](https://www.zeit.de/2021/33/jobgarantie-langzeitarbeitslose-experiment-gramatneusiedl-oesterreich-arbeitslosigkeit){:target="_blank"}", Die Zeit, 08/2021.
 
 - “[Arbeitsplatzgarantie](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){:target="_blank"}”, Renner Institut Steiermark, 04/2021. [podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9jZG4uc3RhdGlvbmlzdGEuY29tL2ZlZWRzL3Nwb2Utc3RlaWVybWFyaw/episode/MDJkOThiOWYyMmExZGVmY2RjMGMxZWNlMzM1ZmU2NDY?ep=14){: .button}{:target="_blank"}
 
-- “[Österreich mit europaweit schlimmstem Wirtschaftseinbruch.](https://zackzack.at/2021/02/03/oesterreich-mit-europaweit-schlimmstem-wirtschaftseinbruch-wirtschaft-zerlegt-sich/){:target="_blank"}“, ZackZack, 02/2021.
-
-- “[Wirtschaftseinbruch noch heftiger als erwartet.](https://zackzack.at/2020/12/04/wirtschaftseinbruch-noch-schlimmer-als-erwartet-kaum-wo-heftiger-als-in-oesterreich/){:target="_blank"}“, ZackZack, 12/2020.
+- "[Die glücklichen Arbeitslosen von Gramatneusiedl](https://www.profil.at/wirtschaft/die-gluecklichen-arbeitslosen-von-gramatneusiedl/401774907){:target="_blank"}", profil, 02/2021.
 
 - "[Residents of a small Austrian town are being promised work for 3 years in the world's first universal jobs guarantee experiment](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11){:target="_blank"}", Business Insider, 12/2020.
 
