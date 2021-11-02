@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### University of Oxford
 
-- Teaching Support for *Quantitative Analysis* (postgraduate), autumn 2021.
+- Teaching Assistant for *Quantitative Analysis* (postgraduate), autumn 2021.
 
 - Tutor for *Comparative Political Economy* (undergraduate) since 2021.
 
