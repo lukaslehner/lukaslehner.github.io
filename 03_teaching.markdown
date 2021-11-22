@@ -9,14 +9,14 @@ permalink: /teaching/
 
 ### University of Oxford
 
-- Teaching Assistant for *Quantitative Analysis* (postgraduate), autumn 2021.
+- Social Policy (undergraduate), since 2021.
 
-- Tutor for *Comparative Political Economy* (undergraduate) since 2021.
+- Comparative Political Economy (undergraduate), since 2021.
 
-- Tutor for *Social Policy* (undergraduate) since 2021.
+- Quantitative Analysis (postgraduate) teaching assistant, 2021.
 
 ### Vienna University of Economics and Business (WU)
 
-- Supervisor of undergraduate theses since 2021
+- Supervision of undergraduate theses, since 2021.
 
-- Teaching Assistant for *International Macroeconomics* (undergraduate), 2014 – 2015.
+- International Macroeconomics (undergraduate) teaching assistant, 2014 – 2015.
