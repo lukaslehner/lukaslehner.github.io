@@ -37,9 +37,9 @@ permalink: /outreach/
 
 - “In-work poverty, labour market policies and Social Dialogue”, at the European Trade Union Institute (ETUI), Brussels (virtual), 06/2021. [slides](https://lukaslehner.github.io/assets/in-work-poverty-etui.pdf){: .button}{:target="_blank"}
 
-- "Tracking Policy Responses to COVID-19: Opportunities and Challenges", at the COVID-19 Public Health and Social Measures (PHSMs) Data Coverage Conference (virtual). [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button}{:target="_blank"} [slides](https://lukaslehner.github.io/assets/supertracker-phsm-data-conference.pdf){: .button}{:target="_blank"}
+- "Tracking Policy Responses to COVID-19: Opportunities and Challenges", at the COVID-19 Public Health and Social Measures (PHSMs) Data Coverage Conference (virtual), 02/2021. [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button}{:target="_blank"} [slides](https://lukaslehner.github.io/assets/supertracker-phsm-data-conference.pdf){: .button}{:target="_blank"}
 
-- OECD Careers Talk, at the OECD (virtual) November 2021. [video](https://www.linkedin.com/video/live/urn:li:ugcPost:6744951162480431104/){: .button}{:target="_blank"}
+- OECD Careers Talk, at the OECD (virtual) 11/2021. [video](https://www.linkedin.com/video/live/urn:li:ugcPost:6744951162480431104/){: .button}{:target="_blank"}
 
 - “Trade union involvement in tackling the effects of the crisis on employment”, at the European Trade Union Institute (ETUI), Brussels (virtual), 11/2020. [slides](https://lukaslehner.github.io/assets/trade-union-covid-employment-crisis-etui.pdf){: .button}{:target="_blank"}
 
@@ -48,6 +48,11 @@ permalink: /outreach/
 - “Effectiveness of Active Labour Market Policies across Europe“, at the European Trade Union Institute (ETUI), Brussels, 01/2020. [slides](https://lukaslehner.github.io/assets/almp-etui.pdf){: .button}{:target="_blank"}
 
 ### Selected Interviews and Media Quotes
+
+- "[Dimensionen: Die Nobelpreise 2021: Wirtschaft. Der Arbeitsmarkt als "natürliches" Experiment.](https://oe1.orf.at/programm/20211209/662632/Die-Nobelpreise-2021-Wirtschaft){:target="_blank"}", Ö1 (radio) interviewed alongside David Card and Joshua Angrist, 12/2021.
+
+- "[Das Arbeitslosengeld ist im internationalen Vergleich niedrig](https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2129653-Das-Arbeitslosengeld-ist-im-internationalen-Vergleich-niedrig.html){:target="_blank"}", Wiener Zeitung, 11/2021. \
+Additional coverage: [Kurier](https://kurier.at/wirtschaft/langzeitarbeitslosigkeit-betriebe-mehr-in-die-pflicht-nehmen/401824066){:target="_blank"}, [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/auch-betriebe-tragen-zur-langzeitarbeitslosigkeit-bei-113308492){:target="_blank"}.
 
 - "[Ö1 Saldo: Forschungsprojekt Arbeitslosenversicherung](https://oe1.orf.at/player/20211022/655766/1634888512000){:target="_blank"}". Ö1, 10/2021. [radio](https://oe1.orf.at/player/20211022/655766/1634888512000){: .button}{:target="_blank"}
 
