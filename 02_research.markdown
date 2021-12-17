@@ -24,6 +24,8 @@ Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac
 (joint with Anna Schwarz) \
 *Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
 
+- "Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany" \
+(joint with Bernhard Ebbinghaus and Elias Naumann)
 
 ### Journal Publications
 
