@@ -37,8 +37,8 @@ nav_ext_links:
     url: https://lukaslehner.github.io/assets/lukas-lehner-cv.pdf
 
 # Build settings
-theme: academic
-# remote_theme: gaalcaras/academic
+# theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
