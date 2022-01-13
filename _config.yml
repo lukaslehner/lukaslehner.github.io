@@ -38,7 +38,7 @@ nav_ext_links:
 
 # Build settings
 theme: academic
-remote_theme: gaalcaras/academic
+# remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
