@@ -49,7 +49,7 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 
-- "[European Stories: Helping the Long-term Unemployed](https://www.arte.tv/de/videos/100300-072-A/re-zurueck-in-den-job/)", ARTE (TV documentary), 12/2021.
+- "[European Stories: Helping the Long-term Unemployed](https://www.arte.tv/de/videos/100300-072-A/re-zurueck-in-den-job/){:target="_blank"}", ARTE (TV documentary), 12/2021.
 
 - "[Dimensionen: Die Nobelpreise 2021: Wirtschaft. Der Arbeitsmarkt als "natürliches" Experiment.](https://oe1.orf.at/programm/20211209/662632/Die-Nobelpreise-2021-Wirtschaft){:target="_blank"}", Ö1 (radio) interviewed alongside David Card and Joshua Angrist, 12/2021.
 
