@@ -49,6 +49,8 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 
+"[Die Arbeitsvollen von Marienthal](https://www.falter.at/zeitung/20220119/die-arbeitsvollen-von-marienthal/_ac33d94ba4){:target="_blank"}", Falter, 01/2022.
+
 - "[European Stories: Helping the Long-term Unemployed](https://www.arte.tv/de/videos/100300-072-A/re-zurueck-in-den-job/){:target="_blank"}", ARTE (TV documentary), 12/2021.
 
 - "[Dimensionen: Die Nobelpreise 2021: Wirtschaft. Der Arbeitsmarkt als "natürliches" Experiment.](https://oe1.orf.at/programm/20211209/662632/Die-Nobelpreise-2021-Wirtschaft){:target="_blank"}", Ö1 (radio) interviewed alongside David Card and Joshua Angrist, 12/2021.

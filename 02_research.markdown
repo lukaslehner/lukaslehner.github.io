@@ -8,7 +8,7 @@ permalink: /research/
 ## Research
 ### Work in Progress
 
-- "Begging thy coworker - Labor market segmentation and the slow-down of wage growth in Europe" \
+- "Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe" \
 (joint with Paul Ramskogler and Aleksandra Riedl) \
 Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford.
 
