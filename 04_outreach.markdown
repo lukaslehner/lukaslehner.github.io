@@ -49,7 +49,9 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 
-"[Die Arbeitsvollen von Marienthal](https://www.falter.at/zeitung/20220119/die-arbeitsvollen-von-marienthal/_ac33d94ba4){:target="_blank"}", Falter, 01/2022.
+- "[Gutscheine statt Zwang für Arbeitslose: Experiment beim AMS zeigt Potenzial](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}", Der Standard, 01/2022.
+
+- "[Die Arbeitsvollen von Marienthal](https://www.falter.at/zeitung/20220119/die-arbeitsvollen-von-marienthal/_ac33d94ba4){:target="_blank"}", Falter, 01/2022.
 
 - "[European Stories: Helping the Long-term Unemployed](https://www.arte.tv/de/videos/100300-072-A/re-zurueck-in-den-job/){:target="_blank"}", ARTE (TV documentary), 12/2021.
 
