@@ -24,7 +24,7 @@ Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac
 - "Reframing active labor market policy: Experimental evidence of training vouchers for unemployed" \
 (joint with Anna Schwarz) \
 *Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"} \
-*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial)
+*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){: .button}{:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){: .button}{:target="_blank"}
 
 - "Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany" \
 (joint with Bernhard Ebbinghaus and Elias Naumann)
