@@ -13,6 +13,8 @@ permalink: /outreach/
 
 ### Columns and Blogs
 
+- "[Arbeitsmarktreform: Mehr Autonomie für Arbeitslose](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}", Die Presse, 01/2022 (joint with Anna Schwarz).
+
 - “[Labour hoarding during the pandemic: Assessing the impact of job retention schemes in Europe](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}”, LSE EUROPP: European Politics and Policy Blog, 06/2021 (joint with Bernhard Ebbinghaus).
 
 - “[A Year of Tracking Government Responses to COVID-19: Challenges and Lessons Learned from the Global Data Collection Efforts Around the World](https://phsmconference.files.wordpress.com/2021/04/phsm_lessons_learned_final_statement-2.pdf){:target="_blank"}”, Shared Statement by the Public Health and Social Measures Trackers participating in the First COVID-19 PHSMs Data Coverage Conference, 03/2021 (joint with Cindy Cheng, Luca Messerschmidt et al.).
