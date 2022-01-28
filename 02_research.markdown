@@ -8,10 +8,6 @@ permalink: /research/
 ## Research
 ### Work in Progress
 
-- "Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe" \
-(joint with Paul Ramskogler and Aleksandra Riedl) \
-Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford.
-
 - "Employing the unemployed of Marienthal: Evaluation of a guaranteed job program" \
 (joint with Maximilian Kasy) \
 *Experiment in progress, 2020-2023*, registered as [AEARCTR-0006706](https://doi.org/10.1257/rct.6706){:target="_blank"} \
@@ -26,12 +22,18 @@ Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac
 *Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"} \
 *Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}
 
+### Under Review
+
+- "[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}", INET Oxford Working Paper No. 2022-04 \
+(joint with Paul Ramskogler and Aleksandra Riedl) \
+Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford.
+
 - "Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany" \
 (joint with Bernhard Ebbinghaus and Elias Naumann)
 
 ### Journal Publications
 
-- "Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment", *Transfer: European Review of Labour and Research*, forthcoming. 
+- "Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment", *Transfer: European Review of Labour and Research*, forthcoming. \
 (joint with Bernhard Ebbinghaus) \
 *Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}.
 
