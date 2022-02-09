@@ -9,16 +9,25 @@ permalink: /teaching/
 
 ### University of Oxford
 
-- Statistics for Public Policy (postgraduate) seminar leader, 2022.
+- Transparency, Reproducibility and Outreach in Academia (PhD workshop), 2022.
 
-- Quantitative Analysis (postgraduate) teaching assistant, 2021.
+- Statistics for Public Policy (postgraduate), 2022 \
+seminar leader.
 
-- Social Policy (undergraduate), 2021.
+- Quantitative Analysis (postgraduate), 2021 \
+teaching assistant.
 
-- Comparative Political Economy (undergraduate), 2021.
+- Social Policy (undergraduate), 2021 - 2022.
+
+- Comparative Political Economy (undergraduate), 2021 - 2022.
 
 ### Vienna University of Economics and Business (WU)
 
-- Supervision of undergraduate theses, since 2021.
+- Economic Policy (undergraduate), 2022 \
+grant awarded to pilot the Oxford Tutorial system and design a new syllabus  \
+currently recruiting tutors: [Call for Applications](https://lukaslehner.github.io/assets/CfA_Tutorium.pdf){:target="_blank"}.
 
-- International Macroeconomics (undergraduate) teaching assistant, 2014 – 2015.
+- Supervision of undergraduate theses, 2021 - 2022.
+
+- International Macroeconomics (undergraduate), 2014 – 2015 \
+teaching assistant.
