@@ -10,7 +10,8 @@ permalink: /teaching/
 ### University of Oxford
 <p> </p>
 
-- **Transparency, Reproducibility and Outreach in Academia** (PhD workshop), 2022.
+- **Transparency, Reproducibility and Outreach in Academia** (PhD workshop), 2022 \
+[Slides](../assets/transparency-outreach-slides.html#1){:target="_blank"}.
 
 - **Statistics for Public Policy** (postgraduate), 2022 \
 seminar leader.
@@ -29,7 +30,7 @@ teaching assistant.
 
 - **Economic Policy** (undergraduate), 2022 \
 *Grant awarded*: to pilot the Oxford Tutorial system and design a new syllabus  \
-Currently recruiting tutors: [Call for Applications](https://lukaslehner.github.io/assets/CfA_Tutorium.pdf){:target="_blank"}.
+Currently recruiting tutors: [Call for Applications](../assets/CfA_Tutorium.pdf){:target="_blank"}.
 
 - **Supervision of undergraduate theses**, 2021 - 2022.
 

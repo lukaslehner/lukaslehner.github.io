@@ -44,17 +44,17 @@ permalink: /outreach/
 
 - **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program** at the ILO webinar "Public Works and Public Employment Programmes: What role in socioeconomic recovery?" (virtual), 10/2021. [video](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"}
 
-- **In-work poverty, labour market policies and Social Dialogue**, at the European Trade Union Institute (ETUI), Brussels (virtual), 06/2021. [slides](https://lukaslehner.github.io/assets/in-work-poverty-etui.pdf){: .button}{:target="_blank"}
+- **In-work poverty, labour market policies and Social Dialogue**, at the European Trade Union Institute (ETUI), Brussels (virtual), 06/2021. [slides](../assets/in-work-poverty-etui.pdf){: .button}{:target="_blank"}
 
-- **Tracking Policy Responses to COVID-19: Opportunities and Challenges**, at the COVID-19 Public Health and Social Measures (PHSMs) Data Coverage Conference (virtual), 02/2021. [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button}{:target="_blank"} [slides](https://lukaslehner.github.io/assets/supertracker-phsm-data-conference.pdf){: .button}{:target="_blank"}
+- **Tracking Policy Responses to COVID-19: Opportunities and Challenges**, at the COVID-19 Public Health and Social Measures (PHSMs) Data Coverage Conference (virtual), 02/2021. [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button}{:target="_blank"} [slides](../assets/supertracker-phsm-data-conference.pdf){: .button}{:target="_blank"}
 
 - **OECD Careers Talk**, at the OECD (virtual) 11/2021. [video](https://www.linkedin.com/video/live/urn:li:ugcPost:6744951162480431104/){: .button}{:target="_blank"}
 
-- **Trade union involvement in tackling the effects of the crisis on employment**, at the European Trade Union Institute (ETUI), Brussels (virtual), 11/2020. [slides](https://lukaslehner.github.io/assets/trade-union-covid-employment-crisis-etui.pdf){: .button}{:target="_blank"}
+- **Trade union involvement in tackling the effects of the crisis on employment**, at the European Trade Union Institute (ETUI), Brussels (virtual), 11/2020. [slides](../assets/trade-union-covid-employment-crisis-etui.pdf){: .button}{:target="_blank"}
 
 - **Tracking Policy Responses to COVID-19: Herausforderungen und Lösungsansätze**, at Netzpolitischer Abend, Vienna (virtual), 09/2020, (in German). [video](https://youtu.be/KnX57fhrIMk?t=132){: .button}{:target="_blank"}
 
-- **Effectiveness of Active Labour Market Policies across Europe**, at the European Trade Union Institute (ETUI), Brussels, 01/2020. [slides](https://lukaslehner.github.io/assets/almp-etui.pdf){: .button}{:target="_blank"}
+- **Effectiveness of Active Labour Market Policies across Europe**, at the European Trade Union Institute (ETUI), Brussels, 01/2020. [slides](../assets/almp-etui.pdf){: .button}{:target="_blank"}
 
 <hr style="border:.25px solid grey">
 
