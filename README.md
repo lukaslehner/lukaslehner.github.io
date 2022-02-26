@@ -1,7 +1,7 @@
 # lukaslehner.github.io
 This is the repository for my academic website: https://lukaslehner.github.io/.
 
-The initial website theme is based on *[Academic](https://github.com/gaalcaras/academic)* by [Gabriel Alcaras](https://gaalcaras.com/en/). I have implemented some adjustments that you can find in this repository.
+The initial website theme is based on *[Academic](https://github.com/gaalcaras/academic)* by [Gabriel Alcaras](https://gaalcaras.com/en/). I have implemented a number of adjustments that you can find in this repository.
 
 My academic CV is written in Markdown and converted to LaTeX using Knit. The template and code is based on [Alex Albright](https://github.com/apalbright/CV) and [Steven Miller](http://svmiller.com/).
 
