@@ -49,7 +49,7 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 
 **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://ora.ox.ac.uk/objects/uuid:075cd8b9-96c3-40cd-869d-872f89e16a78)**, *Transfer: European Review of Labour and Research*, forthcoming. \
 (joint with Bernhard Ebbinghaus) \
-*Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}. 
+*Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}. [replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
