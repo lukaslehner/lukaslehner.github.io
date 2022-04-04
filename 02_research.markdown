@@ -41,6 +41,12 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 
 **Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany** \
 (joint with Bernhard Ebbinghaus and Elias Naumann).
+<details>
+  <summary>Abstract</summary>
+  
+Our analysis asks whether the pandemic situation affects welfare state support in Germany. The pandemic has increased the health and income risks calling for welfare state intervention. While increased need, more deservingness, and higher state responsibility during such a crisis would suggest augmented support generally and among those at risk, this might be a short-term effect and cost considerations could reverse this trend. We study public attitudes towards four key social policy areas based on the German Internet Panel (GIP). We use three waves prior and further three waves since the pandemic had been declared in March 2020. The analysis shows both, continuity in the popularity of social policies, in particular health and pensions, and some short-term increase in support for unemployment and family policies. The results after nearly two years suggest rather continuation with some thermostatic short-term boosts in support instead of any long-lasting change.
+</details>
+<p> </p>
 
 <hr style="border:.25px solid grey">
 
