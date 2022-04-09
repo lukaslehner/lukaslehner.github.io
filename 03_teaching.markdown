@@ -29,8 +29,9 @@ teaching assistant.
 <p> </p>
 
 - **Economic Policy** (undergraduate), 2022 \
-*Grant awarded*: to pilot the Oxford Tutorial system and design a new syllabus  \
-Currently recruiting tutors: [Call for Applications](../assets/CfA_Tutorium.pdf){:target="_blank"}.
+*Grant awarded*: to adapt the Oxford Tutorial system for a public university \
+[Syllabus](../assets/Syllabus_5970_WiPol.pdf){:target="_blank"} \
+[Call for applications for tutors](../assets/CfA_Tutorium.pdf){:target="_blank"}.
 
 - **Supervision of undergraduate theses**, 2021 - 2022.
 
