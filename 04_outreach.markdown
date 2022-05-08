@@ -63,6 +63,8 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- [Plan B: Zurück in den Job. Wege aus der Arbeitslosigkeit](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){:target="_blank"}, **ZDF** (TV documentary), 04/2022. [TV](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){: .button}{:target="_blank"}
+
 - [Gutscheine statt Zwang für Arbeitslose: Experiment beim AMS zeigt Potenzial](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, **Der Standard**, 01/2022.
 
 - [Die Arbeitsvollen von Marienthal](https://www.falter.at/zeitung/20220119/die-arbeitsvollen-von-marienthal/_ac33d94ba4){:target="_blank"}, **Falter**, 01/2022.
