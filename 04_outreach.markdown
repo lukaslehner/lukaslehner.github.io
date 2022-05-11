@@ -63,6 +63,9 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- "[Wie in Marienthal Langzeitarbeitslosigkeit abgeschafft wird](https://kurier.at/chronik/niederoesterreich/wie-in-marienthal-langzeitarbeitslosigkeit-abgeschafft-wird/402003174){:target="_blank"}", Kurier, 05/2022. \
+Additional coverage: [Die Presse](https://www.diepresse.com/6137504/teurer-kampf-gegen-lange-arbeitslosigkeit){:target="_blank"}, [Falter](https://newsletter.falter.at/nOPVNgnF2GW8Fq){:target="_blank"}
+
 - [Plan B: Zurück in den Job. Wege aus der Arbeitslosigkeit](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){:target="_blank"}, **ZDF** (TV documentary), 04/2022. [TV](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){: .button}{:target="_blank"}
 
 - [Gutscheine statt Zwang für Arbeitslose: Experiment beim AMS zeigt Potenzial](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, **Der Standard**, 01/2022.
