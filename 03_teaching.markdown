@@ -29,7 +29,7 @@ teaching assistant.
 <p> </p>
 
 - **Tools for Efficient Workflows, Smooth Collaboration and Optimized Research Outputs** (PhD level), Fall Seminar in Computational Social Science 2022 \
-[Syllabus](https://training.gesis.org/?site=pDetails&child=full&pID=0xB75F899267F14C648AED7D43EBFF3BFB&subID=0x0ECFCCE392F64C7281C5FDE598767F2F){:target="_blank"}.
+[Syllabus](https://www.gesis.org/fileadmin/upload/GESIS_Training/Syllabi_Methodenseminar/Fall_Seminar_2022/Fall_Seminar_2022_Week_1_Schulte-CloosLehner.pdf){:target="_blank"}.
 
 <hr style="border:.25px solid grey">
 
