@@ -44,3 +44,8 @@ Awarded the *Scholarship of Teaching & Learning*: to adapt the Oxford Tutorial s
 
 - **International Macroeconomics** (undergraduate level), 2014 – 2015 \
 teaching assistant.
+<p> </p>
+
+![tutors](../assets/tutors.jpg)
+
+*Team of tutors for economic policy to adapt the Oxford Tutorial for a public university.*
