@@ -48,4 +48,4 @@ teaching assistant.
 
 ![tutors](../assets/tutors.jpg)
 
-*Team of tutors for economic policy to adapt the Oxford Tutorial for a public university.*
+*Training workshop for team of tutors, summer 2022.*
