@@ -17,6 +17,8 @@ permalink: /outreach/
 ### Columns and Blogs
 <p> </p>
 
+- **[Short-time working: lessons for the next recession](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}**, Social Europe, 07/2022 (joint with Bernhard Ebbinghaus).
+
 - **[Einfach mehr Druck machen? Perspektiven zur Arbeitsmarktreform](https://www.derstandard.at/story/2000134046795/einfach-mehr-druck-machen-perspektiven-zur-arbeitsmarktreform){:target="_blank"}**, Der Standard: Kommentar der anderen, 03/2022 (joint with Philip Rathgeb).
 
 - **[Arbeitsmarktreform: Mehr Autonomie für Arbeitslose](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}**, Die Presse, 01/2022 (joint with Anna Schwarz).
