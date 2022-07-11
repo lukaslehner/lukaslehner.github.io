@@ -31,7 +31,7 @@ the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc
 
 **[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, INET Oxford Working Paper No. 2022-04 \
 (joint with Paul Ramskogler and Aleksandra Riedl) \
-Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford.
+Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford and the [SASE / Digit 2022 Early Career Workshop Award](https://sase.org/workshop/2022-sase-digit-early-career-workshop/).
 <details>
   <summary>Abstract</summary>
 
