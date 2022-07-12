@@ -65,9 +65,9 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
-- "Junge Jobsuchende haben gute Karten wie lange nicht mehr. Doch die Konjunkturaussichten verdüstern sich. Was kommt da auf uns zu?", **Profil**, 07/2022.
+- [Junge Jobsuchende haben gute Karten wie lange nicht mehr. Doch die Konjunkturaussichten verdüstern sich. Was kommt da auf uns zu?](https://www.profil.at/wirtschaft/das-blatt-wendet-sich-fuer-junge-jobsuchende/402071023), **Profil**, 07/2022.
 
-- "[Wie in Marienthal Langzeitarbeitslosigkeit abgeschafft wird](https://kurier.at/chronik/niederoesterreich/wie-in-marienthal-langzeitarbeitslosigkeit-abgeschafft-wird/402003174){:target="_blank"}", **Kurier**, 05/2022. \
+- [Wie in Marienthal Langzeitarbeitslosigkeit abgeschafft wird](https://kurier.at/chronik/niederoesterreich/wie-in-marienthal-langzeitarbeitslosigkeit-abgeschafft-wird/402003174){:target="_blank"}, **Kurier**, 05/2022. \
 Additional coverage: [Die Presse](https://www.diepresse.com/6137504/teurer-kampf-gegen-lange-arbeitslosigkeit){:target="_blank"}, [Falter](https://newsletter.falter.at/nOPVNgnF2GW8Fq){:target="_blank"}
 
 - [Plan B: Zurück in den Job. Wege aus der Arbeitslosigkeit](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){:target="_blank"}, **ZDF** (TV documentary), 04/2022. [TV](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){: .button}{:target="_blank"}
