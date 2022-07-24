@@ -19,6 +19,8 @@ permalink: /outreach/
 
 - **[Short-time working: lessons for the next recession](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}**, Social Europe, 07/2022 (joint with Bernhard Ebbinghaus).
 
+- **[Warum brauchen wir Vollbeschäftigung?](https://www.arbeit-wirtschaft.at/wp-content/uploads/2022/06/AW_05_2022_ES.pdf){:target="_blank"}**, Arbeit & Wirtschaft Magazin, 06/2022.
+
 - **[Einfach mehr Druck machen? Perspektiven zur Arbeitsmarktreform](https://www.derstandard.at/story/2000134046795/einfach-mehr-druck-machen-perspektiven-zur-arbeitsmarktreform){:target="_blank"}**, Der Standard: Kommentar der anderen, 03/2022 (joint with Philip Rathgeb).
 
 - **[Arbeitsmarktreform: Mehr Autonomie für Arbeitslose](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}**, Die Presse, 01/2022 (joint with Anna Schwarz).
@@ -65,7 +67,7 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
-- [Junge Jobsuchende haben gute Karten wie lange nicht mehr. Doch die Konjunkturaussichten verdüstern sich. Was kommt da auf uns zu?](https://www.profil.at/wirtschaft/das-blatt-wendet-sich-fuer-junge-jobsuchende/402071023), **Profil**, 07/2022.
+- [Junge Jobsuchende haben gute Karten wie lange nicht mehr. Doch die Konjunkturaussichten verdüstern sich. Was kommt da auf uns zu?](https://www.profil.at/wirtschaft/das-blatt-wendet-sich-fuer-junge-jobsuchende/402071023){:target="_blank"}, **profil**, 07/2022.
 
 - [Wie in Marienthal Langzeitarbeitslosigkeit abgeschafft wird](https://kurier.at/chronik/niederoesterreich/wie-in-marienthal-langzeitarbeitslosigkeit-abgeschafft-wird/402003174){:target="_blank"}, **Kurier**, 05/2022. \
 Additional coverage: [Die Presse](https://www.diepresse.com/6137504/teurer-kampf-gegen-lange-arbeitslosigkeit){:target="_blank"}, [Falter](https://newsletter.falter.at/nOPVNgnF2GW8Fq){:target="_blank"}
