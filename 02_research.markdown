@@ -46,7 +46,16 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 ### Journal Publications
 <p> </p>
 
-**[Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany](https://doi.org/10.1002/epa2.1152){:target="_blank"}**, *European Policy Analysis*, forthcoming. \
+4) **Capturing the COVID-19 Crisis through Public Health and Social Measures Data Science**, *Scientific Data*, forthcoming. \
+(joint with Cindy Cheng, Amélie Desvars-Larrive, Bernhard Ebbinghaus, Thomas Hale, Alex Howes, Luca Messerschmidt, Angeliki Nika, Steve Penson, Anna Petherick, Hanmeng Xu, Alexander John Zapf, Yuxi Zhang, and Sophia Alison Zweig)
+<details>
+  <summary>Abstract</summary>
+
+In response to COVID-19, governments worldwide are implementing public health and social measures (PHSMs) that substantially impact many areas beyond public health. The new field of PHSM data science collects, structures, and disseminates data on PHSM; here, we report the main achievements, challenges, and focus areas of this novel field of research.
+</details>
+<p> </p>
+
+3) **[Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany](https://doi.org/10.1002/epa2.1152){:target="_blank"}**, *European Policy Analysis*, forthcoming. \
 (joint with Bernhard Ebbinghaus and Elias Naumann) \
 *Coverage:* [Resolution Foundation](https://www.resolutionfoundation.org/comment/try-your-hand-at-levelling-up-the-country/){:target="_blank"}
 <details>
@@ -56,7 +65,7 @@ Our analysis asks whether the pandemic situation affects welfare state support i
 </details>
 <p> </p>
 
-**[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, forthcoming. \
+2) **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, forthcoming. \
 (joint with Bernhard Ebbinghaus) \
 *Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. [replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"}
 <details>
@@ -68,7 +77,7 @@ Europe faces multiple challenges during the Covid-19 pandemic, including the pro
 
 *Pre-PhD* 
 
-**[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}**, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229. \
+1) **[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}**, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229. \
 *Summary:* [LSE NETUF Blog](http://blogs.lse.ac.uk/netuf/2018/01/02/has-austrias-decade-long-revival-of-neo-corporatism-come-to-an-end/?subscribe=success#blog_subscription-2){:target="_blank"}, [Arbeit und Wirtschaft Blog](https://www.awblog.at/ist-oesterreichs-revival-der-sozialpartner-nach-einem-jahrzehnt-am-ende/){:target="_blank"}.
 <details>
   <summary>Abstract</summary>
