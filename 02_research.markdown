@@ -46,12 +46,12 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 ### Journal Publications
 <p> </p>
 
-4) **Capturing the COVID-19 Crisis through Public Health and Social Measures Data Science**, *Scientific Data*, forthcoming. \
+4) **[Capturing the COVID-19 Crisis through Public Health and Social Measures Data Science](https://doi.org/10.1038/s41597-022-01616-8){:target="_blank"}**, *Scientific Data*, 2022, 9, 520. \
 (joint with Cindy Cheng, Amélie Desvars-Larrive, Bernhard Ebbinghaus, Thomas Hale, Alex Howes, Luca Messerschmidt, Angeliki Nika, Steve Penson, Anna Petherick, Hanmeng Xu, Alexander John Zapf, Yuxi Zhang, and Sophia Alison Zweig)
 <details>
   <summary>Abstract</summary>
 
-In response to COVID-19, governments worldwide are implementing public health and social measures (PHSMs) that substantially impact many areas beyond public health. The new field of PHSM data science collects, structures, and disseminates data on PHSM; here, we report the main achievements, challenges, and focus areas of this novel field of research.
+In response to COVID-19, governments worldwide are implementing public health and social measures (PHSM) that substantially impact many areas beyond public health. The new field of PHSM data science collects, structures, and disseminates data on PHSM; here, we report the main achievements, challenges, and focus areas of this novel field of research.
 </details>
 <p> </p>
 
