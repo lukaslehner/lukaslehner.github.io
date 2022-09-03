@@ -10,7 +10,8 @@ permalink: /outreach/
 ### Policy Reports
 <p> </p>
 
-- **[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}**, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas).
+- **[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}**, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas). \
+[bibtex citation](../assets/daly2020policytracker.bib){: .button}{:download}
 
 <hr style="border:.25px solid grey">
 
