@@ -11,18 +11,23 @@ permalink: /research/
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program** \
 (joint with Maximilian Kasy) \
 *Experiment in progress, 2020-2023*, registered as [AEARCTR-0006706](https://doi.org/10.1257/rct.6706){:target="_blank"} \
-[dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"} [video](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"} [code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"} \
 *Selected media coverage (English):* [CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html){:target="_blank"}, [Financial Times](https://app.ft.com/content/1c2fe25a-c3fe-4a39-bbbe-7a32cc5d5e70){:target="_blank"}, [Forbes](https://www.forbes.com/sites/rebeccahenderson/2021/06/30/the-new-world-of-work-needs-a-new-social-contract/?sh=4004fe00213f){:target="_blank"}, [Business Insider](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11){:target="_blank"}, [Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html){:target="_blank"} \
 *Selected media coverage (German):* Die Zeit [1](https://www.zeit.de/2021/33/jobgarantie-langzeitarbeitslose-experiment-gramatneusiedl-oesterreich-arbeitslosigkeit){:target="_blank"}, [2](https://www.zeit.de/2021/13/wirtschaft-corona-krise-investition-arbeitslosigkeit-markus-marterbauer){:target="_blank"}, Der Standard [1](https://www.derstandard.at/story/2000121172201/ein-garantierter-job-fuer-alle-arbeitslose-ams-testet-in-marienthal){:target="_blank"}, [2](https://www.derstandard.at/story/2000124636466/studentische-forschung-ohne-feldversuche){:target="_blank"}, [3](https://www.derstandard.at/story/2000127731123/die-menschen-hinter-der-statistik-fuenf-langzeitarbeitslose-erzaehlen){:target="_blank"}, [4](https://www.derstandard.at/story/2000128020801/keine-arbeitslosen-im-marienthal-am-schauplatz-im-orf-am-donnerstag?ref=rec){:target="_blank"}, ORF [1](https://noe.orf.at/stories/3072721/){:target="_blank"}, [2](https://noe.orf.at/stories/3091746/){:target="_blank"}, [3](https://science.orf.at/stories/3206278/){:target="_blank"}, Kurier [1](https://kurier.at/chronik/niederoesterreich/die-langzeitarbeitslosen-von-marienthal-ams-startet-modellprojekt/401072784){:target="_blank"}, [2](https://kurier.at/chronik/niederoesterreich/jobgarantie-in-noe-die-neue-arbeit-in-marienthal/401127678){:target="_blank"}, [3](https://kurier.at/wirtschaft/die-arbeitenden-von-marienthal/401367287){:target="_blank"} \
 *TV & radio coverage:* [ARTE](https://www.arte.tv/de/videos/100300-072-A/re-zurueck-in-den-job/){:target="_blank"}, [ZDF](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html), [ORF](https://www.youtube.com/watch?v=iDFxDvweuN0){:target="_blank"}, Ö1 [1](https://oe1.orf.at/player/20210720/645358/1626776169000){:target="_blank"}, [2](https://oe1.orf.at/programm/20211209/662632/Die-Nobelpreise-2021-Wirtschaft){:target="_blank"}. \
 *Policy impact:* OECD [1](../assets/oecd-job-guarantee-extract.pdf){:target="_blank"}, [2](https://www.oecd.org/coronavirus/policy-responses/building-inclusive-labour-markets-active-labour-market-policies-for-the-most-vulnerable-groups-607662d9/?utm_source=Adestra&utm_medium=email&utm_content=covid&utm_campaign=ELS%20Newsletter%20October%202021&utm_term=els){:target="_blank"}, ILO [1](https://www.ilo.org/global/topics/employment-intensive-investment/publications/WCMS_818473/lang--en/index.htm){:target="_blank"}, [2](https://youtu.be/Uiqn_WgrZ-I?t=4035){:target="_blank"}, [Minister of Labour of Austria](https://www.parlament.gv.at/pls/portal/hi.link?pfad=/PAKT/VHG/XXVII/AB/AB_06450/index.shtml){:target="_blank"}, [Parliament of Austria](https://www.parlament.gv.at/PAKT/VHG/XXVII/J/J_06501/fnameorig_953843.html){:target="_blank"}.  \
 Awarded the [Horowitz Foundation for Social Policy dissertation grant](https://www.horowitz-foundation.org/2021) and \
-the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc-berkeley-program) of the Austrian Marshall Plan Foundation.
+the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc-berkeley-program) of the Austrian Marshall Plan Foundation. \
+[dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"}
+[video](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"}
+[code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"}
+[bibtex citation](../assets/kasy2020marienthal.bib){: .button}{:download}
 
 **Reframing active labor market policy: Experimental evidence of training vouchers for unemployed** \
 (joint with Anna Schwarz) \
-*Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"} \
-*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}.
+*Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
+*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
+[code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
+[bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
 
 <hr style="border:.25px solid grey">
 
@@ -31,7 +36,8 @@ the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc
 
 **[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, INET Oxford Working Paper No. 2022-04 \
 (joint with Paul Ramskogler and Aleksandra Riedl) \
-Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford and the [SASE / Digit 2022 Early Career Workshop Award](https://sase.org/workshop/2022-sase-digit-early-career-workshop/).
+Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford and the [SASE / Digit 2022 Early Career Workshop Award](https://sase.org/workshop/2022-sase-digit-early-career-workshop/). \
+[bibtex citation](../assets/lehner2022wages.bib){: .button}{:download}
 <details>
   <summary>Abstract</summary>
 
@@ -47,7 +53,8 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 <p> </p>
 
 4) **[Capturing the COVID-19 Crisis through Public Health and Social Measures Data Science](https://doi.org/10.1038/s41597-022-01616-8){:target="_blank"}**, *Scientific Data*, 2022, 9, 520. \
-(joint with Cindy Cheng, Amélie Desvars-Larrive, Bernhard Ebbinghaus, Thomas Hale, Alex Howes, Luca Messerschmidt, Angeliki Nika, Steve Penson, Anna Petherick, Hanmeng Xu, Alexander John Zapf, Yuxi Zhang, and Sophia Alison Zweig)
+(joint with Cindy Cheng, Amélie Desvars-Larrive, Bernhard Ebbinghaus, Thomas Hale, Alex Howes, Luca Messerschmidt, Angeliki Nika, Steve Penson, Anna Petherick, Hanmeng Xu, Alexander John Zapf, Yuxi Zhang, and Sophia Alison Zweig) \
+[bibtex citation](../assets/cheng2022scidata.bib){: .button}{:download}
 <details>
   <summary>Abstract</summary>
 
@@ -57,7 +64,8 @@ In response to COVID-19, governments worldwide are implementing public health an
 
 3) **[Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany](https://doi.org/10.1002/epa2.1152){:target="_blank"}**, *European Policy Analysis*, forthcoming. \
 (joint with Bernhard Ebbinghaus and Elias Naumann) \
-*Coverage:* [Resolution Foundation](https://www.resolutionfoundation.org/comment/try-your-hand-at-levelling-up-the-country/){:target="_blank"}
+*Coverage:* [Resolution Foundation](https://www.resolutionfoundation.org/comment/try-your-hand-at-levelling-up-the-country/){:target="_blank"} \
+[bibtex citation](../assets/ebbinghaus2022welfare.bib){: .button}{:download}
 <details>
   <summary>Abstract</summary>
   
@@ -67,7 +75,9 @@ Our analysis asks whether the pandemic situation affects welfare state support i
 
 2) **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, forthcoming. \
 (joint with Bernhard Ebbinghaus) \
-*Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. [replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"}
+*Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. \
+[replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"} 
+[bibtex citation](../assets/ebbinghaus2022jobretention.bib){: .button}{:download}
 <details>
   <summary>Abstract</summary>
 
@@ -78,7 +88,8 @@ Europe faces multiple challenges during the Covid-19 pandemic, including the pro
 *Pre-PhD* 
 
 1) **[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}**, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229. \
-*Summary:* [LSE NETUF Blog](http://blogs.lse.ac.uk/netuf/2018/01/02/has-austrias-decade-long-revival-of-neo-corporatism-come-to-an-end/?subscribe=success#blog_subscription-2){:target="_blank"}, [Arbeit und Wirtschaft Blog](https://www.awblog.at/ist-oesterreichs-revival-der-sozialpartner-nach-einem-jahrzehnt-am-ende/){:target="_blank"}.
+*Summary:* [LSE NETUF Blog](http://blogs.lse.ac.uk/netuf/2018/01/02/has-austrias-decade-long-revival-of-neo-corporatism-come-to-an-end/?subscribe=success#blog_subscription-2){:target="_blank"}, [Arbeit und Wirtschaft Blog](https://www.awblog.at/ist-oesterreichs-revival-der-sozialpartner-nach-einem-jahrzehnt-am-ende/){:target="_blank"}. \
+[bibtex citation](../assets/lehner2017corporatism.bib){: .button}{:download}
 <details>
   <summary>Abstract</summary>
 
