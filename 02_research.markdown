@@ -22,7 +22,7 @@ the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc
 [code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"}
 [bibtex citation](../assets/kasy2020marienthal.bib){: .button}{:download}
 
-**Reframing active labor market policy: Experimental evidence of training vouchers for unemployed** \
+**Reframing active labor market policy** \
 (joint with Anna Schwarz) \
 *Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
 *Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
