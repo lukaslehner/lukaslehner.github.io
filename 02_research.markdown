@@ -62,7 +62,7 @@ In response to COVID-19, governments worldwide are implementing public health an
 </details>
 <p> </p>
 
-3) **[Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany](https://doi.org/10.1002/epa2.1152){:target="_blank"}**, *European Policy Analysis*, forthcoming. \
+3) **[Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany](https://doi.org/10.1002/epa2.1152){:target="_blank"}**, *European Policy Analysis*, 2022, 8(3), 297–311. \
 (joint with Bernhard Ebbinghaus and Elias Naumann) \
 *Coverage:* [Resolution Foundation](https://www.resolutionfoundation.org/comment/try-your-hand-at-levelling-up-the-country/){:target="_blank"} \
 [bibtex citation](../assets/ebbinghaus2022welfare.bib){: .button}{:download}
@@ -73,7 +73,7 @@ Our analysis asks whether the pandemic situation affects welfare state support i
 </details>
 <p> </p>
 
-2) **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, forthcoming. \
+2) **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, 2022, 28(1), 47-64. \
 (joint with Bernhard Ebbinghaus) \
 *Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. \
 [replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"} 

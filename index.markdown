@@ -8,7 +8,7 @@ title: Lukas Lehner
 
 ### Hi,
 
-I am a PhD candidate at the University of Oxford, [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/people/lukas-lehner#/){:target="_blank"} and at the [Institute for New Economic Thinking at the Oxford Martin School](https://www.inet.ox.ac.uk/people/lukas-lehner/){:target="_blank"}.
+I am a PhD candidate at the University of Oxford, [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/people/lukas-lehner#/){:target="_blank"} and at the [Institute for New Economic Thinking at the Oxford Martin School](https://www.inet.ox.ac.uk/people/lukas-lehner/){:target="_blank"}. During the academic year 2022/23, I am a visiting scholar at UC Berkeley in fall and at MIT in spring.
 
 My research focuses on labour market policies. In particular, I am studying the [causes for slow wage growth](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"} in Europe, conducting a randomised control trial on a [pilot job guarantee scheme](https://maxkasy.github.io/home/Marienthal/){:target="_blank"} and have founded the [Oxford Supertracker: The Global Directory of COVID Policy Trackers and Surveys](https://supertracker.spi.ox.ac.uk/){:target="_blank"}. 
 
