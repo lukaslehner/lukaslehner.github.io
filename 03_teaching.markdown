@@ -25,10 +25,10 @@ teaching assistant.
 
 <hr style="border:.25px solid grey">
 
-### GESIS Leibniz Institute for the Social Sciences, Mannheim
+### GESIS Fall Seminar in Computational Social Science, Mannheim
 <p> </p>
 
-- **Tools for Efficient Workflows, Smooth Collaboration and Optimized Research Outputs** (PhD level), Fall Seminar in Computational Social Science 2022 \
+- **Tools for Efficient Workflows, Smooth Collaboration and Optimized Research Outputs** (PhD level), 2022 \
 course convenor, [Syllabus](https://www.gesis.org/fileadmin/upload/GESIS_Training/Syllabi_Methodenseminar/Fall_Seminar_2022/Fall_Seminar_2022_Week_1_Schulte-CloosLehner.pdf){:target="_blank"}.
 
 <hr style="border:.25px solid grey">
@@ -48,4 +48,4 @@ teaching assistant.
 
 ![tutors](../assets/tutors.jpg)
 
-*Training workshop for team of tutors, summer 2022.*
+*Training workshop for my team of tutors in summer 2022.*
