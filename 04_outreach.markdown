@@ -49,7 +49,7 @@ permalink: /outreach/
 ### Presentations to policymakers and the public
 <p> </p>
 
-- **Zero Unemployment Territories** at the FEPS Employment Policy Breakfast Series" (virtual), 09/2022. [video](https://youtu.be/dDRt5mWVlIQ?t=951){: .button}{:target="_blank"}
+- **Zero Unemployment Territories** at the FEPS Employment Policy Breakfast, Brussels (virtual), 09/2022. [video](https://youtu.be/dDRt5mWVlIQ?t=951){: .button}{:target="_blank"}
 
 - **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program** at the ILO webinar "Public Works and Public Employment Programmes: What role in socioeconomic recovery?" (virtual), 10/2021. [video](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"}
 
