@@ -14,4 +14,4 @@ My research focuses on social and labour market policies. In particular, I am st
 
 My research has been awarded the Barnett Prize for the best paper at DSPI, University of Oxford, a Horowitz Foundation for Social Policy Grant and the UC Berkeley Fellowship of the Austrian Marshall Plan Foundation. My work has been featured by the Financial Times, CNN, Forbes and Nature in print and by ARTE, ZDF and ORF on TV. Prior to my doctoral studies, I worked at the OECD Economics Department in Paris and the International Labour Organization in Geneva.
 
-If you are interested in my research, feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk) or [twitter](https://twitter.com/LukasLehner_){:target="_blank"}.
+If you are interested in my research, feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk), [twitter](https://twitter.com/LukasLehner_){:target="_blank"} or <a rel="me noopener" href="https://econtwitter.net/@lukaslehner" target="_blank">mastodon</a>.
