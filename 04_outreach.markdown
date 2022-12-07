@@ -70,6 +70,9 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- [World’s first job guarantee trial ‘eliminates’ long-term unemployment](https://www.independent.co.uk/news/uk/politics/job-guaruntee-trial-austria-marienthal-b2238387.html)", **Independent**, 12/2022. 
+*Additional coverage:* Il Manifesto, [Der Standard](https://www.derstandard.at/story/2000141471055/pilotprojekt-im-marienthal-wie-eine-jobgarantie-des-ams-das-leben), [Kurier](https://kurier.at/chronik/niederoesterreich/jobprojekt-in-niederoesterreich-die-menschen-waren-gluecklicher-und-staerker/402246219).
+
 - [Junge Jobsuchende haben gute Karten wie lange nicht mehr. Doch die Konjunkturaussichten verdüstern sich. Was kommt da auf uns zu?](https://www.profil.at/wirtschaft/das-blatt-wendet-sich-fuer-junge-jobsuchende/402071023){:target="_blank"}, **profil**, 07/2022.
 
 - [Wie in Marienthal Langzeitarbeitslosigkeit abgeschafft wird](https://kurier.at/chronik/niederoesterreich/wie-in-marienthal-langzeitarbeitslosigkeit-abgeschafft-wird/402003174){:target="_blank"}, **Kurier**, 05/2022. \

@@ -8,9 +8,8 @@ permalink: /research/
 ## Research
 ### Work in Progress
 <p> </p>
-**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program** \
+**[Employing the unemployed of Marienthal: Evaluation of a guaranteed job program](https://maxkasy.github.io/home/files/papers/Jobguarantee_marienthal.pdf){:target="_blank"}** \
 (joint with Maximilian Kasy) \
-[Manuscript](https://maxkasy.github.io/home/files/papers/Jobguarantee_marienthal.pdf){:target="_blank"} \
 [Pre-analysis plan](https://www.socialscienceregistry.org/versions/85230/docs/version/document){:target="_blank"}, registered as [AEARCTR-0006706](https://doi.org/10.1257/rct.6706){:target="_blank"} \
 *Selected media coverage* \
 &ensp; *English:* [CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html){:target="_blank"}, [Financial Times](https://app.ft.com/content/1c2fe25a-c3fe-4a39-bbbe-7a32cc5d5e70){:target="_blank"}, [Forbes](https://www.forbes.com/sites/rebeccahenderson/2021/06/30/the-new-world-of-work-needs-a-new-social-contract/?sh=4004fe00213f){:target="_blank"}, [Business Insider](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11){:target="_blank"} \
