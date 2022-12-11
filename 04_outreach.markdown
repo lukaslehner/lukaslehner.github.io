@@ -70,8 +70,10 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
-- [World’s first job guarantee trial ‘eliminates’ long-term unemployment](https://www.independent.co.uk/news/uk/politics/job-guaruntee-trial-austria-marienthal-b2238387.html)", **Independent**, 12/2022. 
-*Additional coverage:* Il Manifesto, [Der Standard](https://www.derstandard.at/story/2000141471055/pilotprojekt-im-marienthal-wie-eine-jobgarantie-des-ams-das-leben), [Kurier](https://kurier.at/chronik/niederoesterreich/jobprojekt-in-niederoesterreich-die-menschen-waren-gluecklicher-und-staerker/402246219).
+- [What happens when jobs are guaranteed?](https://www.newyorker.com/news/annals-of-inquiry/what-happens-when-jobs-are-guaranteed){:target="_blank"}, **The New Yorker**, 12/2022.
+
+- [World’s first job guarantee trial ‘eliminates’ long-term unemployment](https://www.independent.co.uk/news/uk/politics/job-guaruntee-trial-austria-marienthal-b2238387.html){:target="_blank"}, **Independent**, 12/2022. 
+*Additional coverage:* Il Manifesto, [Der Standard](https://www.derstandard.at/story/2000141471055/pilotprojekt-im-marienthal-wie-eine-jobgarantie-des-ams-das-leben){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/jobprojekt-in-niederoesterreich-die-menschen-waren-gluecklicher-und-staerker/402246219){:target="_blank"}.
 
 - [Junge Jobsuchende haben gute Karten wie lange nicht mehr. Doch die Konjunkturaussichten verdüstern sich. Was kommt da auf uns zu?](https://www.profil.at/wirtschaft/das-blatt-wendet-sich-fuer-junge-jobsuchende/402071023){:target="_blank"}, **profil**, 07/2022.
 
