@@ -72,6 +72,8 @@ permalink: /outreach/
 
 - [What happens when jobs are guaranteed?](https://www.newyorker.com/news/annals-of-inquiry/what-happens-when-jobs-are-guaranteed){:target="_blank"}, **The New Yorker**, 12/2022.
 
+- [Abschied vom Ramsch-Modell](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-und-buergergeld-abschied-vom-deutschen-ramsch-modell-kolumne-a-58b5b541-593e-4696-b694-daf4b47d18fc){:target="_blank"}, **Der Spiegel**, 12/2022.
+
 - [World’s first job guarantee trial ‘eliminates’ long-term unemployment](https://www.independent.co.uk/news/uk/politics/job-guaruntee-trial-austria-marienthal-b2238387.html){:target="_blank"}, **Independent**, 12/2022. 
 *Additional coverage:* Il Manifesto, [Der Standard](https://www.derstandard.at/story/2000141471055/pilotprojekt-im-marienthal-wie-eine-jobgarantie-des-ams-das-leben){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/jobprojekt-in-niederoesterreich-die-menschen-waren-gluecklicher-und-staerker/402246219){:target="_blank"}.
 
