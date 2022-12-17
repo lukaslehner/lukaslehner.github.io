@@ -18,17 +18,18 @@ permalink: /research/
 *Policy impact:* OECD [1](../assets/oecd-job-guarantee-extract.pdf){:target="_blank"}, [2](https://www.oecd.org/coronavirus/policy-responses/building-inclusive-labour-markets-active-labour-market-policies-for-the-most-vulnerable-groups-607662d9/?utm_source=Adestra&utm_medium=email&utm_content=covid&utm_campaign=ELS%20Newsletter%20October%202021&utm_term=els){:target="_blank"}, ILO [1](https://www.ilo.org/global/topics/employment-intensive-investment/publications/WCMS_818473/lang--en/index.htm){:target="_blank"}, [2](https://youtu.be/Uiqn_WgrZ-I?t=4035){:target="_blank"}, Italy: Ministry of Labour, Austria: [Parliament](https://www.parlament.gv.at/PAKT/VHG/XXVII/J/J_06501/fnameorig_953843.html){:target="_blank"}.  \
 Awarded the [Horowitz Foundation for Social Policy dissertation grant](https://www.horowitz-foundation.org/2021) and \
 the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc-berkeley-program) of the Austrian Marshall Plan Foundation. \
-[dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"}
-[video](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"}
-[code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"}
+[recording](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"} [slides](../assets/jobguarantee_slides_lehner.pdf){: .button}{:target="_blank"} in English \
+[recording](https://youtu.be/dumq7Ixxsxc?t=0){: .button}{:target="_blank"} [slides](https://blog.oecd-berlin.de/wp-content/uploads/2022/12/Praesentation-Lukas-Lehner-Jobgarantie.pdf){: .button}{:target="_blank"} in German \
 [bibtex citation](../assets/kasy2020marienthal.bib){: .button}{:download}
+[code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"}
+[dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"}
 
 **Reframing active labor market policy** \
 (joint with Anna Schwarz) \
 *Experiment in progress, 2021-2023*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
 *Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
-[code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
 [bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
+[code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
 
 <hr style="border:.25px solid grey">
 
@@ -77,8 +78,8 @@ Our analysis asks whether the pandemic situation affects welfare state support i
 2) **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, 2022, 28(1), 47-64. \
 (joint with Bernhard Ebbinghaus) \
 *Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. \
-[replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"} 
 [bibtex citation](../assets/ebbinghaus2022jobretention.bib){: .button}{:download}
+[replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"} 
 <details>
   <summary>Abstract</summary>
 

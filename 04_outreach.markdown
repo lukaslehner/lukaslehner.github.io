@@ -49,6 +49,8 @@ permalink: /outreach/
 ### Presentations to policymakers and the public
 <p> </p>
 
+- **Jobgarantie – Hoffnung für Marienthal und die Arbeitsmarktpolitik?** at the OECD / IZA webinar, Berlin (virtual), 12/2022. [video](https://blog.oecd-berlin.de/jobgarantie-marienthal-arbeitsmarktpolitik){: .button}{:target="_blank"} [slides](https://blog.oecd-berlin.de/wp-content/uploads/2022/12/Praesentation-Lukas-Lehner-Jobgarantie.pdf){: .button}{:target="_blank"}
+
 - **Zero Unemployment Territories** at the FEPS Employment Policy Breakfast, Brussels (virtual), 09/2022. [video](https://youtu.be/dDRt5mWVlIQ?t=951){: .button}{:target="_blank"}
 
 - **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program** at the ILO webinar "Public Works and Public Employment Programmes: What role in socioeconomic recovery?" (virtual), 10/2021. [video](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"}
