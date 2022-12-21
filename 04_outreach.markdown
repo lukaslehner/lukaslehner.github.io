@@ -74,6 +74,8 @@ permalink: /outreach/
 
 - [What happens when jobs are guaranteed?](https://www.newyorker.com/news/annals-of-inquiry/what-happens-when-jobs-are-guaranteed){:target="_blank"}, **The New Yorker**, 12/2022.
 
+- [Jobgarantie beendet Langzeitarbeitslosigkeit, Interview mit Lukas Lehner](https://www.deutschlandfunk.de/jobgarantie-beendet-langzeitarbeitslosigkeit-interview-lukas-lehner-dlf-d7eb5a78-100.html){:target="_blank"}, **Deutschlandfunk**, Campus & Karriere, 12/2022. [radio](https://www.deutschlandfunk.de/jobgarantie-beendet-langzeitarbeitslosigkeit-interview-lukas-lehner-dlf-d7eb5a78-100.html){: .button}{:target="_blank"}
+
 - [Jobgarantie gegen Existenzängste](https://orf.at/stories/3297704/){:target="_blank"}, **ORF**, 12/2022.
 
 - [Staatliche Jobgarantie kann Langzeitarbeitslosigkeit entgegenwirken](https://kurier.at/wirtschaft/staatliche-jobgarantie-kann-langzeitarbeitslosigkeit-entgegenwirken/402259590){:target="_blank"}, **Kurier**, 12/2022.
