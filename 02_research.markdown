@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 ## Research
-### Work in Progress
+### Working Papers
 <p> </p>
 **[Employing the unemployed of Marienthal: Evaluation of a guaranteed job program](https://maxkasy.github.io/home/files/papers/Jobguarantee_marienthal.pdf){:target="_blank"}** \
 (joint with Maximilian Kasy) \
@@ -20,20 +20,19 @@ Awarded the [Horowitz Foundation for Social Policy dissertation grant](https://w
 the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc-berkeley-program) of the Austrian Marshall Plan Foundation. \
 [recording](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"} [slides](../assets/jobguarantee_slides_lehner.pdf){: .button}{:target="_blank"} in English \
 [recording](https://youtu.be/dumq7Ixxsxc?t=0){: .button}{:target="_blank"} [slides](https://blog.oecd-berlin.de/wp-content/uploads/2022/12/Praesentation-Lukas-Lehner-Jobgarantie.pdf){: .button}{:target="_blank"} in German \
-[bibtex citation](../assets/kasy2020marienthal.bib){: .button}{:download}
+[bibtex citation](../assets/kasy2022marienthal.bib){: .button}{:download}
 [code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"}
 [dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+We evaluate a guaranteed job program that was piloted, starting in October 2020, in the municipality of Gramatneusiedl in Austria. This program provided individually tailored, voluntary jobs to all long-term unemployed residents. Our evaluation is based on three estimation approaches. The first approach uses pairwise matched randomization of participants into waves for program adoption. The second approach uses a pre-registered synthetic control at the municipality level. The third approach compares program participants to observationally similar individuals in control municipalities. These different approaches allow us to separate out direct effects of program participation, anticipation effects of future
+participation, and municipality-level equilibrium effects.
+<p> </p>
+We find strong positive impacts of program participation on participants’ economic (employment, income, security) and non-economic wellbeing (social recognition, time structure, social interactions, collective purpose). We do not find effects on physical health, or risk- and
+time-preferences. At the municipality level, we find a large reduction of long-term unemployment, and a slightly attenuated reduction of total unemployment. Comparing participants to similar individuals in control towns, we obtain estimates that are very close to the estimates
+from the experimental comparison. There is evidence of positive anticipation effects in terms of subjective wellbeing, status and social inclusion for future program participants, relative to ineligible control-town individuals.
 
-**Reframing active labor market policy** \
-(joint with Anna Schwarz) \
-*Experiment in progress, 2021-2023*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
-*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
-[bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
-[code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
-
-<hr style="border:.25px solid grey">
-
-### Under Review
+</details>
 <p> </p>
 
 **[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, INET Oxford Working Paper No. 2022-04 \
@@ -44,10 +43,25 @@ Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac
   <summary>Abstract</summary>
 
 Does the structure of labor markets – and the possibility to employ temporary workers – affect aggregate wage growth? After the global financial crisis (GFC) a rich debate had ensued about the reasons for the delayed pick up of wage growth. However, structural labor market aspects remained strangely absent from this discussion. We contribute by incorporating labor market dualization into the standard Phillips curve model to explain wage growth in 30 European countries in the period 2004-2017.
-
+<p> </p>
 We find that the presence of workers with temporary contracts in Europe’s labor markets slows down aggregate wage growth due to the competition that temporary workers exert on permanent workers. This competition effect is most pronounced in countries, where trade union density is low. Moreover, we establish that labor market dualization has been at least as important in slowing wage growth since the GFC as unemployment, i.e. the observed flattening of the Phillips curve.
 </details>
+
+<hr style="border:.25px solid grey">
+
+### Work in Progress
 <p> </p>
+
+**Reframing active labor market policy** \
+(joint with Anna Schwarz) \
+*Experiment in progress, 2021-2023*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
+*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
+[bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
+[code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
+
+**Labor Unions and Firm Productivity** \
+(joint with Emanuel List) \
+Awarded the [OeNB Anniversary Fund Grant 2023 - 2025](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds/projektabfrage.html){:target="_blank"}
 
 <hr style="border:.25px solid grey">
 
