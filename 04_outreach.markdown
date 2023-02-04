@@ -74,6 +74,8 @@ permalink: /outreach/
 
 - [Experiment Jobgarantie: Was uns ein Pilotprojekt für Langzeitarbeitslose lehrt](https://tv.orf.at/program/orf2/eco280.html){:target="_blank"}, **ORF** ECO Magazin, 02/2023. [TV](https://tv.orf.at/program/orf2/eco280.html){: .button}{:target="_blank"}
 
+- [The many benefits of a guaranteed job program (with Max Kasy and Lukas Lehner)](https://pitchforkeconomics.com/episode/the-many-benefits-of-a-guaranteed-job-program-with-max-kasy-and-lukas-lehner/){:target="_blank"}, **Pitchfork Economics**, 01/2023. [podcast](https://pitchforkeconomics.com/episode/the-many-benefits-of-a-guaranteed-job-program-with-max-kasy-and-lukas-lehner/){: .button}{:target="_blank"}
+
 - [Sozialexperiment: Mit Jobgarantie gegen Arbeitslosigkeit](https://www.deutschlandfunknova.de/beitrag/l%C3%BCtzerath-covid-19-handball){:target="_blank"}, **Deutschlandfunk Nova**, 01/2023. [radio](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rbm92YS5kZS9wb2RjYXN0L3VwZGF0ZQ/episode/RFJhZGlvLVdpc3Nlbi00ZDZmZjM0ZQ?ep=14){: .button}{:target="_blank"}
 
 - [What happens when jobs are guaranteed?](https://www.newyorker.com/news/annals-of-inquiry/what-happens-when-jobs-are-guaranteed){:target="_blank"}, **The New Yorker**, 12/2022.
