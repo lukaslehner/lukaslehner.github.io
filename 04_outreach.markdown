@@ -72,13 +72,18 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- [Experiment Jobgarantie: Was uns ein Pilotprojekt für Langzeitarbeitslose lehrt](https://tv.orf.at/program/orf2/eco280.html){:target="_blank"}, **ORF** ECO Magazin, 02/2023. [TV](https://tv.orf.at/program/orf2/eco280.html){: .button}{:target="_blank"}
+
+- [Sozialexperiment: Mit Jobgarantie gegen Arbeitslosigkeit](https://www.deutschlandfunknova.de/beitrag/l%C3%BCtzerath-covid-19-handball){:target="_blank"}, **Deutschlandfunk Nova**, 01/2023. [radio](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGV1dHNjaGxhbmRmdW5rbm92YS5kZS9wb2RjYXN0L3VwZGF0ZQ/episode/RFJhZGlvLVdpc3Nlbi00ZDZmZjM0ZQ?ep=14){: .button}{:target="_blank"}
+
 - [What happens when jobs are guaranteed?](https://www.newyorker.com/news/annals-of-inquiry/what-happens-when-jobs-are-guaranteed){:target="_blank"}, **The New Yorker**, 12/2022.
 
 - [Jobgarantie beendet Langzeitarbeitslosigkeit, Interview mit Lukas Lehner](https://www.deutschlandfunk.de/jobgarantie-beendet-langzeitarbeitslosigkeit-interview-lukas-lehner-dlf-d7eb5a78-100.html){:target="_blank"}, **Deutschlandfunk**, Campus & Karriere, 12/2022. [radio](https://www.deutschlandfunk.de/jobgarantie-beendet-langzeitarbeitslosigkeit-interview-lukas-lehner-dlf-d7eb5a78-100.html){: .button}{:target="_blank"}
 
 - [Jobgarantie gegen Existenzängste](https://orf.at/stories/3297704/){:target="_blank"}, **ORF**, 12/2022.
 
-- [Staatliche Jobgarantie kann Langzeitarbeitslosigkeit entgegenwirken](https://kurier.at/wirtschaft/staatliche-jobgarantie-kann-langzeitarbeitslosigkeit-entgegenwirken/402259590){:target="_blank"}, **Kurier**, 12/2022.
+- [Staatliche Jobgarantie kann Langzeitarbeitslosigkeit entgegenwirken](https://science.apa.at/power-search/15813661877738123967){:target="_blank"}, **Austria Presse Agentur**, 12/2022.
+*Additional coverage:* [Kurier](https://kurier.at/wirtschaft/staatliche-jobgarantie-kann-langzeitarbeitslosigkeit-entgegenwirken/402259590){:target="_blank"}.
 
 - [Abschied vom Ramsch-Modell](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-und-buergergeld-abschied-vom-deutschen-ramsch-modell-kolumne-a-58b5b541-593e-4696-b694-daf4b47d18fc){:target="_blank"}, **Der Spiegel**, 12/2022.
 
@@ -88,7 +93,7 @@ permalink: /outreach/
 - [Junge Jobsuchende haben gute Karten wie lange nicht mehr. Doch die Konjunkturaussichten verdüstern sich. Was kommt da auf uns zu?](https://www.profil.at/wirtschaft/das-blatt-wendet-sich-fuer-junge-jobsuchende/402071023){:target="_blank"}, **profil**, 07/2022.
 
 - [Wie in Marienthal Langzeitarbeitslosigkeit abgeschafft wird](https://kurier.at/chronik/niederoesterreich/wie-in-marienthal-langzeitarbeitslosigkeit-abgeschafft-wird/402003174){:target="_blank"}, **Kurier**, 05/2022. \
-Additional coverage: [Die Presse](https://www.diepresse.com/6137504/teurer-kampf-gegen-lange-arbeitslosigkeit){:target="_blank"}, [Falter](https://newsletter.falter.at/nOPVNgnF2GW8Fq){:target="_blank"}
+*Additional coverage*: [Die Presse](https://www.diepresse.com/6137504/teurer-kampf-gegen-lange-arbeitslosigkeit){:target="_blank"}, [Falter](https://newsletter.falter.at/nOPVNgnF2GW8Fq){:target="_blank"}.
 
 - [Plan B: Zurück in den Job. Wege aus der Arbeitslosigkeit](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){:target="_blank"}, **ZDF** (TV documentary), 04/2022. [TV](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html){: .button}{:target="_blank"}
 
@@ -101,7 +106,7 @@ Additional coverage: [Die Presse](https://www.diepresse.com/6137504/teurer-kampf
 - [Dimensionen: Die Nobelpreise 2021: Wirtschaft. Der Arbeitsmarkt als "natürliches" Experiment.](https://oe1.orf.at/programm/20211209/662632/Die-Nobelpreise-2021-Wirtschaft){:target="_blank"}, **Ö1** interviewed alongside David Card and Joshua Angrist, 12/2021. [radio](https://oe1.orf.at/programm/20211209/662632/Die-Nobelpreise-2021-Wirtschaft){: .button}{:target="_blank"}
 
 - [Das Arbeitslosengeld ist im internationalen Vergleich niedrig](https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2129653-Das-Arbeitslosengeld-ist-im-internationalen-Vergleich-niedrig.html){:target="_blank"}, **Wiener Zeitung**, 11/2021. \
-Additional coverage: **[Kurier](https://kurier.at/wirtschaft/langzeitarbeitslosigkeit-betriebe-mehr-in-die-pflicht-nehmen/401824066){:target="_blank"}, [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/auch-betriebe-tragen-zur-langzeitarbeitslosigkeit-bei-113308492){:target="_blank"}**.
+*Additional coverage*: **[Kurier](https://kurier.at/wirtschaft/langzeitarbeitslosigkeit-betriebe-mehr-in-die-pflicht-nehmen/401824066){:target="_blank"}, [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/auch-betriebe-tragen-zur-langzeitarbeitslosigkeit-bei-113308492){:target="_blank"}**.
 
 - [Ö1 Saldo: Forschungsprojekt Arbeitslosenversicherung](https://oe1.orf.at/player/20211022/655766/1634888512000){:target="_blank"}. **Ö1**, 10/2021. [radio](https://oe1.orf.at/player/20211022/655766/1634888512000){: .button}{:target="_blank"}
 
