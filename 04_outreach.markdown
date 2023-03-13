@@ -72,6 +72,8 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- [Jobgarantie in Gramatneusiedl](https://oe1.orf.at/programm/20230313/712440/Jobgarantie-in-Gramatneusiedl){:target="_blank"}, **Ö1** Dimensionen, 03/2023. [radio](https://oe1.orf.at/programm/20230313/712440/Jobgarantie-in-Gramatneusiedl){: .button}{:target="_blank"}
+
 - [Experiment Jobgarantie: Was uns ein Pilotprojekt für Langzeitarbeitslose lehrt](https://tv.orf.at/program/orf2/eco280.html){:target="_blank"}, **ORF** ECO Magazin, 02/2023. [TV](https://tv.orf.at/program/orf2/eco280.html){: .button}{:target="_blank"}
 
 - [The many benefits of a guaranteed job program (with Max Kasy and Lukas Lehner)](https://pitchforkeconomics.com/episode/the-many-benefits-of-a-guaranteed-job-program-with-max-kasy-and-lukas-lehner/){:target="_blank"}, **Pitchfork Economics**, 01/2023. [podcast](https://pitchforkeconomics.com/episode/the-many-benefits-of-a-guaranteed-job-program-with-max-kasy-and-lukas-lehner/){: .button}{:target="_blank"}
