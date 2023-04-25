@@ -72,6 +72,10 @@ permalink: /outreach/
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- [Was passiert, wenn dir der Staat einen Job garantiert](https://perspective-daily.de/article/2567-was-passiert-wenn-dir-der-staat-einen-job-garantiert/BDn2v8pM){:target="_blank"}, **Perspective Daily**, 04/2023.
+
+- [Austria's 'Job Guarantee' - same price, better outcomes](https://euobserver.com/health-and-society/156921){:target="_blank"}, **EUobserver**, 04/2023.
+
 - [Jobgarantie in Gramatneusiedl](https://oe1.orf.at/programm/20230313/712440/Jobgarantie-in-Gramatneusiedl){:target="_blank"}, **Ö1** Dimensionen, 03/2023. [radio](https://oe1.orf.at/programm/20230313/712440/Jobgarantie-in-Gramatneusiedl){: .button}{:target="_blank"}
 
 - [Experiment Jobgarantie: Was uns ein Pilotprojekt für Langzeitarbeitslose lehrt](https://tv.orf.at/program/orf2/eco280.html){:target="_blank"}, **ORF** ECO Magazin, 02/2023. [TV](https://tv.orf.at/program/orf2/eco280.html){: .button}{:target="_blank"}
