@@ -6,6 +6,9 @@ permalink: /research/
 ---
 
 ## Research
+
+I am interested in the consequences of social policies for the world of work, how labor market institutions affect unemployment and poverty, and how changes in worker organization shape employment and wages in Europe and the United States. 
+
 ### Working Papers
 <p> </p>
 **[Employing the unemployed of Marienthal: Evaluation of a guaranteed job program](https://osf.io/preprints/socarxiv/cd25u/){:target="_blank"}** \

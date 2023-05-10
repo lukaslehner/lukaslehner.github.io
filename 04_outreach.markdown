@@ -7,6 +7,8 @@ permalink: /outreach/
 
 ## Outreach
 
+My research informs the design of labor market policies that foster inclusive prosperity and create decent jobs in light of a changing nature of work. My work is being featured in print (incl. by _The New Yorker_, _Financial Times_), radio and on TV (incl. by ARTE, ARD, ZDF).
+
 ### Policy Reports
 <p> </p>
 
