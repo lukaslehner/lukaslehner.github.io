@@ -7,6 +7,8 @@ permalink: /outreach/
 
 ## Outreach
 
+My research informs the design of labor market policies that foster inclusive prosperity and create decent jobs in light of a changing nature of work. My work is being featured in print (incl. by _The New Yorker_, _Financial Times_), radio and on TV (incl. by ARTE, ARD, ZDF).
+
 ### Policy Reports
 <p> </p>
 
@@ -71,6 +73,10 @@ permalink: /outreach/
 
 ### Selected Interviews and Media Quotes
 <p> </p>
+
+- [Was passiert, wenn dir der Staat einen Job garantiert](https://perspective-daily.de/article/2567-was-passiert-wenn-dir-der-staat-einen-job-garantiert/BDn2v8pM){:target="_blank"}, **Perspective Daily**, 04/2023.
+
+- [Austria's 'Job Guarantee' - same price, better outcomes](https://euobserver.com/health-and-society/156921){:target="_blank"}, **EUobserver**, 04/2023.
 
 - [Jobgarantie in Gramatneusiedl](https://oe1.orf.at/programm/20230313/712440/Jobgarantie-in-Gramatneusiedl){:target="_blank"}, **Ö1** Dimensionen, 03/2023. [radio](https://oe1.orf.at/programm/20230313/712440/Jobgarantie-in-Gramatneusiedl){: .button}{:target="_blank"}
 

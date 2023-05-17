@@ -10,6 +10,7 @@ The initial website theme is based on *[Academic](https://github.com/gaalcaras/a
 - [Birte Strunk](https://birtestrunk.github.io/)
 - [Lisa Hanzl](https://lisahanzl.github.io/)
 - [Carlos Revoredo](https://caerevoredo.github.io/)
+- [Severin Rapp](https://severin-rapp.github.io/)
 
 My academic CV is written in Markdown and converted to LaTeX using Knit. The template and code is based on [Alex Albright](https://github.com/apalbright/CV) and [Steven Miller](http://svmiller.com/).
 
