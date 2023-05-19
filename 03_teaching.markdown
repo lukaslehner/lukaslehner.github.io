@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Teaching
 
-I teach methods courses on statistics, and causal inference, and have developed a course on reproducibility tools. I also teach substantive courses on social policy, and comparative political economy, and have developed a course on economic policy. 
+I teach methods courses on statistics and causal inference, and I have developed a course on reproducibility tools. I also teach substantive courses on social policy and comparative political economy, and I have developed a course on economic policy. 
 
 ### University of Oxford
 <p> </p>

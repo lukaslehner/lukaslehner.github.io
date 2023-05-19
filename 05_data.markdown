@@ -6,7 +6,7 @@ permalink: /data/
 ---
 
 ## Data
-Transparency and reproducibility are core values guiding research. I frequently collect primary data, which I aim to make accessible through public repositories. In the pandemic, I founded the Oxford Supertracker to assist researchers in navigating new data sources.
+Transparency and reproducibility are core values guiding research. I frequently collect primary data, which I aim to make accessible through public repositories. During the pandemic, I founded the Oxford Supertracker to assist researchers in navigating new data sources.
 
 **[Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](https://supertracker.spi.ox.ac.uk/){:target="_blank"}**, 07/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas) \
 *Grant awarded:* Research England’s Higher Education Innovation Fund and the ESRC Impact Acceleration Account through the University of Oxford’s COVID-19 Urgent Response Fund \
