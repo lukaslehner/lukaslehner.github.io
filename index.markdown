@@ -14,4 +14,4 @@ My resarch focuses on the consequences of labor market policies and institutions
 
 My research has been awarded the Barnett Prize for the best paper at the University of Oxford DSPI, a Horowitz Foundation for Social Policy Grant and the UC Berkeley Fellowship of the Austrian Marshall Plan Foundation. My work has been featured by *The New Yorker*, *Financial Times*, *CNN* and *Nature* in print and by *ARTE*, *ARD*, and *ZDF* on TV. Prior to my doctoral studies, I worked at the OECD Economics Department in Paris and the International Labour Organization in Geneva.
 
-Feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk) or [twitter](https://twitter.com/LukasLehner_){:target="_blank"}.
+Feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk) or [Twitter](https://twitter.com/LukasLehner_){:target="_blank"}.
