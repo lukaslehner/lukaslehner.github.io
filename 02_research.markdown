@@ -24,7 +24,7 @@ Awarded the [Horowitz Foundation for Social Policy dissertation grant](https://w
 the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc-berkeley-program) of the Austrian Marshall Plan Foundation. \
 [recording](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"} [slides](../assets/jobguarantee_slides_lehner.pdf){: .button}{:target="_blank"} [podcast](https://pitchforkeconomics.com/episode/the-many-benefits-of-a-guaranteed-job-program-with-max-kasy-and-lukas-lehner/){: .button}{:target="_blank"} in English \
 [recording](https://youtu.be/dumq7Ixxsxc?t=0){: .button}{:target="_blank"} [slides](https://blog.oecd-berlin.de/wp-content/uploads/2022/12/Praesentation-Lukas-Lehner-Jobgarantie.pdf){: .button}{:target="_blank"} [podcast](https://www.deutschlandfunk.de/jobgarantie-beendet-langzeitarbeitslosigkeit-interview-lukas-lehner-dlf-d7eb5a78-100.html){: .button}{:target="_blank"} in German \
-[bibtex citation](../assets/kasy2022marienthal.bib){: .button}{:download}
+[bibtex citation](../assets/kasy2023marienthal.bib){: .button}{:download}
 [code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"}
 [dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"}
 <details>
