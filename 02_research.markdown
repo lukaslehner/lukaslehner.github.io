@@ -29,13 +29,9 @@ the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc
 [dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
-We evaluate a guaranteed job program that was piloted, starting in October 2020, in the municipality of Gramatneusiedl in Austria. This program provided individually tailored, voluntary jobs to all long-term unemployed residents. Our evaluation is based on three estimation approaches. The first approach uses pairwise matched randomization of participants into waves for program adoption. The second approach uses a pre-registered synthetic control at the municipality level. The third approach compares program participants to observationally similar individuals in control municipalities. These different approaches allow us to separate out direct effects of program participation, anticipation effects of future
-participation, and municipality-level equilibrium effects.
+We evaluate a guaranteed job program launched in 2020 in Austria. Our evaluation is based on three approaches, pairwise matched randomization, a pre-registered synthetic control at the municipality level, and a comparison to individuals in control municipalities. This allows us to estimate direct effects, anticipation effects, and spillover effects.
 <p> </p>
-We find strong positive impacts of program participation on participants’ economic (employment, income, security) and non-economic wellbeing (social recognition, time structure, social interactions, collective purpose). We do not find effects on physical health, or risk- and
-time-preferences. At the municipality level, we find a large reduction of long-term unemployment, and a slightly attenuated reduction of total unemployment. Comparing participants to similar individuals in control towns, we obtain estimates that are very close to the estimates
-from the experimental comparison. There is evidence of positive anticipation effects in terms of subjective wellbeing, status and social inclusion for future program participants, relative to ineligible control-town individuals.
-
+We find positive impacts of program participation on economic and non-economic well-being, but not on physical health or preferences. At the municipality level, we find a large reduction of long-term unemployment, and no negative employment spillovers. There are positive anticipation effects on subjective well-being, status, and social inclusion for future participants.
 </details>
 <p> </p>
 
