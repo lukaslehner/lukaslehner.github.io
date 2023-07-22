@@ -74,6 +74,8 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- [Eine Jobgarantie kostet uns weniger als Langzeitarbeitslose im Stich zu lassen](https://kontrast.at/gramatneusiedl-jobgarantie/#Resultate_Mehr_Selbstwertgefuehl_mehr_soziale_Sicherheit_und_Respekt_durch_andere_fuer_die_geleistete_Arbeit){:target="_blank"}, **Kontrast**, 07/2023.
+
 - [Was passiert, wenn dir der Staat einen Job garantiert](https://perspective-daily.de/article/2567-was-passiert-wenn-dir-der-staat-einen-job-garantiert/BDn2v8pM){:target="_blank"}, **Perspective Daily**, 04/2023.
 
 - [Austria's 'Job Guarantee' - same price, better outcomes](https://euobserver.com/health-and-society/156921){:target="_blank"}, **EUobserver**, 04/2023.
