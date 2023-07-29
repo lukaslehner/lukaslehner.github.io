@@ -56,14 +56,15 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 ### Work in Progress
 <p> </p>
 
-**Reframing active labor market policy** \
+**Reframing Active Labor Market Policy: Field Experiments on Barriers to Program Participation** \
 (joint with Anna Schwarz) \
 *Experiment in progress, 2021-2023*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
 *Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
 [bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
 [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
 
-**Labor Unions and Firm Productivity** \
+
+**What do Unions do to Workers' Wages and Firm Performance?** \
 (joint with Emanuel List) \
 Awarded the [OeNB Anniversary Fund Grant 2023 - 2025](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds/projektabfrage.html){:target="_blank"}
 
