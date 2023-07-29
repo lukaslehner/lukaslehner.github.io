@@ -64,7 +64,7 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
 
 
-**What do Unions do to Workers' Wages and Firm Performance?** \
+**Worker Organization and Firm Performance: New Evidence from Union Membership Registries** \
 (joint with Emanuel List) \
 Awarded the [OeNB Anniversary Fund Grant 2023 - 2025](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds/projektabfrage.html){:target="_blank"}
 
