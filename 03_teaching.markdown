@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Teaching
 
-I teach methods courses on statistics and causal inference, and I have developed a course on reproducibility tools. I also teach substantive courses on social policy and comparative political economy, and I have developed a course on economic policy. 
+I teach methods courses on statistics and causal inference, and I have developed a course on reproducibility tools. I also teach substantive courses in the field of public policy and social inequality, and I have developed a course on economic policy. 
 
 ### University of Oxford
 <p> </p>
@@ -24,6 +24,14 @@ teaching assistant.
 - **Social Policy** (undergraduate level), 2021 - 2022.
 
 - **Comparative Political Economy** (undergraduate level), 2021 - 2022.
+
+<hr style="border:.25px solid grey">
+
+### University College London (UCL) / National Centre for Research Methods (NCRM)
+<p> </p>
+
+- **Tools for Efficient Workflows (GitHub, Markdown, Docker)** (PhD level), 2023, \
+course convenor, [Syllabus](https://www.ncrm.ac.uk/training/show.php?article=13069){:target="_blank"}.
 
 <hr style="border:.25px solid grey">
 
