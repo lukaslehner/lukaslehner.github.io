@@ -94,7 +94,7 @@ Our analysis asks whether the pandemic situation affects welfare state support i
 </details>
 <p> </p>
 
-2) **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, 2022, 28(1), 47-64. \
+2) **[Cui bono – business or labour? Job retention policies during the COVID-19 pandemic in Europe](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, 2022, 28(1), 47-64. \
 (joint with Bernhard Ebbinghaus) \
 *Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. \
 [bibtex citation](../assets/ebbinghaus2022jobretention.bib){: .button}{:download}
