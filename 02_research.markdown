@@ -11,7 +11,7 @@ I am interested in the consequences of social policies for the world of work, ho
 
 ### Working Papers
 <p> </p>
-**[Employing the unemployed of Marienthal: Evaluation of a guaranteed job program](https://osf.io/preprints/socarxiv/cd25u/){:target="_blank"}** \
+**[Employing the unemployed of Marienthal: Evaluation of a guaranteed job program](https://lukaslehner.github.io/assets/Jobguarantee_marienthal.pdf){:target="_blank"}** \
 (joint with Maximilian Kasy) \
 [Appendix](https://maxkasy.github.io/home/files/papers/Appendix_marienthal.pdf){:target="_blank"}, [Pre-analysis plan](https://www.socialscienceregistry.org/versions/85230/docs/version/document){:target="_blank"}, registered as [AEARCTR-0006706](https://doi.org/10.1257/rct.6706){:target="_blank"}. \
 WP Series: [Stone Center](https://stonecenter.gc.cuny.edu/research/employing-the-unemployed-of-marienthal-evaluation-of-a-guaranteed-job-program/){:target="_blank"}, [IZA](https://docs.iza.org/dp16088.pdf){:target="_blank"}, [CESifo](https://www.cesifo.org/en/publications/2023/working-paper/employing-unemployed-marienthal-evaluation-guaranteed-job-program){:target="_blank"}, [Oxford INET](https://www.inet.ox.ac.uk/publications/no-2022-29-employing-the-unemployed-of-marienthal-evaluation-of-a-guaranteed-job-program/){:target="_blank"}, [Oxford Economics](https://www.economics.ox.ac.uk/publication/1311319/hyrax){:target="_blank"}. \
