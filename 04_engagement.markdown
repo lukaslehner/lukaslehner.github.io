@@ -9,6 +9,16 @@ permalink: /engagement/
 
 My work informs the design of labor market policies that foster inclusive prosperity and create decent jobs for everyone. My work has been featured in print including by _The New Yorker_ and _Financial Times_, and on radio and TV including by ARTE, ARD and ZDF.
 
+### Book Chapters
+<p> </p>
+
+2) **Unemployment and Labor Market Policy**, (joint with Dennis Tamesberger), in: *Handbook of Social Infrastructure*. Edward Elgar Publishing. forthcoming.
+
+1) **[Das Recht auf Arbeit. Wirtschaftliche und soziale Auswirkungen einer Jobgarantie](https://lukaslehner.github.io/assets/das_recht_auf_arbeit_2023.pdf){:target="_blank"}**, (joint with Maximilian Kasy), in: *Beschäftigung für alle. Die Zukunft der Arbeit*, Vol. 4, Vienna: Elisabeth Kaiser, Marcus Schober, 2023. 92-100. \
+[bibtex citation](../assets/kasy2023wirtschaftliche.bib){: .button}{:download}
+
+<hr style="border:.25px solid grey">
+
 ### Policy Reports
 <p> </p>
 
