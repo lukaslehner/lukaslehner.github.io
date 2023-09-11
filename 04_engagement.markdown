@@ -14,7 +14,7 @@ My work informs the design of labor market policies that foster inclusive prospe
 
 2) **Unemployment and Labor Market Policy**, (joint with Dennis Tamesberger), in: *Handbook of Social Infrastructure*. Edward Elgar Publishing. forthcoming.
 
-1) **[Das Recht auf Arbeit. Wirtschaftliche und soziale Auswirkungen einer Jobgarantie](https://lukaslehner.github.io/assets/das_recht_auf_arbeit_2023.pdf){:target="_blank"}**, (joint with Maximilian Kasy), in: *Beschäftigung für alle. Die Zukunft der Arbeit*, Vol. 4, Vienna: Elisabeth Kaiser, Marcus Schober, 2023. 92-100. \
+1) **[Das Recht auf Arbeit. Wirtschaftliche und soziale Auswirkungen einer Jobgarantie](https://lukaslehner.github.io/assets/das_recht_auf_arbeit_2023.pdf){:target="_blank"}**, (joint with Maximilian Kasy). In: Elisabeth Kaiser, Marcus Schober (Eds.), *Beschäftigung für alle. Die Zukunft der Arbeit*, 92-100, Vol. 4, Vienna: ÖGB Verlag, 2023. \
 [bibtex citation](../assets/kasy2023wirtschaftliche.bib){: .button}{:download}
 
 <hr style="border:.25px solid grey">
