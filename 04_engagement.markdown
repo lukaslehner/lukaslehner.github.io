@@ -84,6 +84,10 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- [Gramatneusiedl: Wie sich eine Jobgarantie auf Langzeitarbeitslosigkeit auswirkt](https://kompetenz-online.at/2023/09/12/gramatneusiedl-wie-sich-eine-jobgarantie-auf-langzeitarbeitslosigkeit-auswirkt/){:target="_blank"}, **Kompetenz**, 09/2023.
+
+- [Garantierte Arbeit in Marienthal. Was passiert, wenn Arbeitslosigkeit neu gedacht wird?](https://www.ksoe.at/pages/ksoe_update/podcast/podcast361gradsozialko/article/145003.html){:target="_blank"}, **KSOE**, 09/2023. [podcast](https://www.ksoe.at/pages/ksoe_update/podcast/podcast361gradsozialko/article/145003.html){: .button}{:target="_blank"}
+
 - [Eine Jobgarantie kostet uns weniger als Langzeitarbeitslose im Stich zu lassen](https://kontrast.at/gramatneusiedl-jobgarantie/#Resultate_Mehr_Selbstwertgefuehl_mehr_soziale_Sicherheit_und_Respekt_durch_andere_fuer_die_geleistete_Arbeit){:target="_blank"}, **Kontrast**, 07/2023.
 
 - [Was passiert, wenn dir der Staat einen Job garantiert](https://perspective-daily.de/article/2567-was-passiert-wenn-dir-der-staat-einen-job-garantiert/BDn2v8pM){:target="_blank"}, **Perspective Daily**, 04/2023.
