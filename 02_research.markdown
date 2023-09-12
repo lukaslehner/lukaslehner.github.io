@@ -12,7 +12,7 @@ I am interested in the consequences of social policies for the world of work, ho
 ### Working Papers
 <p> </p>
 **[Employing the unemployed of Marienthal: Evaluation of a guaranteed job program](https://lukaslehner.github.io/assets/Jobguarantee_marienthal.pdf){:target="_blank"}** \
-(joint with Maximilian Kasy) \
+(joint with [Maximilian Kasy](https://maxkasy.github.io/home/){:target="_blank"}) \
 registered as [AEARCTR-0006706](https://doi.org/10.1257/rct.6706){:target="_blank"}. \
 Working Papers: [Stone Center](https://stonecenter.gc.cuny.edu/research/employing-the-unemployed-of-marienthal-evaluation-of-a-guaranteed-job-program/){:target="_blank"}, [IZA](https://docs.iza.org/dp16088.pdf){:target="_blank"}, [CESifo](https://www.cesifo.org/en/publications/2023/working-paper/employing-unemployed-marienthal-evaluation-guaranteed-job-program){:target="_blank"}, [Oxford INET](https://www.inet.ox.ac.uk/publications/no-2022-29-employing-the-unemployed-of-marienthal-evaluation-of-a-guaranteed-job-program/){:target="_blank"}, [Oxford Economics](https://www.economics.ox.ac.uk/publication/1311319/hyrax){:target="_blank"}. \
 *Selected media coverage* \
@@ -39,7 +39,7 @@ We find positive impacts of program participation on economic and non-economic w
 <p> </p>
 
 **[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, INET Oxford Working Paper No. 2022-04 \
-(joint with Paul Ramskogler and Aleksandra Riedl) \
+(joint with [Paul Ramskogler](https://www.oenb.at/en/Monetary-Policy/Research/economists/paul-ramskogler.html){:target="_blank"} and [Aleksandra Riedl](https://www.oenb.at/en/Monetary-Policy/Research/economists/aleksandra-riedl.html){:target="_blank"}) \
 *Awards:* \
 &ensp; [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at DSPI, Oxford \
 &ensp; [SASE / Digit 2022 Early Career Workshop Award](https://sase.org/workshop/2022-sase-digit-early-career-workshop/). \
@@ -58,7 +58,7 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 <p> </p>
 
 **Reframing Active Labor Market Policy: Field Experiments on Barriers to Program Participation** \
-(joint with Anna Schwarz) \
+(joint with [Anna Schwarz](https://sites.google.com/view/anna-schwarz){:target="_blank"}) \
 *Experiment in progress, 2021-2023*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
 *Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
 [bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
@@ -66,7 +66,7 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 
 
 **Worker Organization and Firm Performance: New Evidence from Union Membership Registries** \
-(joint with Emanuel List) \
+(joint with [Emanuel List](https://sites.google.com/view/emanuellist){:target="_blank"}) \
 Awarded the [OeNB Anniversary Fund Grant 2023 - 2025](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds/projektabfrage.html){:target="_blank"}
 
 <hr style="border:.25px solid grey">
@@ -85,7 +85,7 @@ In response to COVID-19, governments worldwide are implementing public health an
 <p> </p>
 
 3) **[Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany](https://doi.org/10.1002/epa2.1152){:target="_blank"}**, *European Policy Analysis*, 2022, 8(3), 297–311. \
-(joint with Bernhard Ebbinghaus and Elias Naumann) \
+(joint with [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"} and [Elias Naumann](http://www.eliasnaumann.de/){:target="_blank"}) \
 *Coverage:* [Resolution Foundation](https://www.resolutionfoundation.org/comment/try-your-hand-at-levelling-up-the-country/){:target="_blank"}. \
 [bibtex citation](../assets/ebbinghaus2022welfare.bib){: .button}{:download}
 <details>
@@ -96,7 +96,7 @@ Our analysis asks whether the pandemic situation affects welfare state support i
 <p> </p>
 
 2) **[Cui bono – business or labour? Job retention policies during the COVID-19 pandemic in Europe](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, 2022, 28(1), 47-64. \
-(joint with Bernhard Ebbinghaus) \
+(joint with [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"}) \
 *Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. \
 [bibtex citation](../assets/ebbinghaus2022jobretention.bib){: .button}{:download}
 [replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"} 

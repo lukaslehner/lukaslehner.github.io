@@ -8,7 +8,7 @@ permalink: /data/
 ## Data
 Transparency and reproducibility are core values guiding my research. I frequently collect primary data, which I aim to make accessible to the public. During the pandemic, I founded the Oxford Supertracker to assist researchers in navigating new data sources.
 
-**[Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](https://supertracker.spi.ox.ac.uk/){:target="_blank"}**, 07/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas) \
+**[Oxford Supertracker: The Global Directory for COVID Policy Trackers and Surveys](https://supertracker.spi.ox.ac.uk/){:target="_blank"}**, 07/2020 (joint with [Mary Daly](https://www.spi.ox.ac.uk/people/professor-mary-daly){:target="_blank"}, [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"}, [Marek Naczyk](https://www.spi.ox.ac.uk/people/dr-marek-naczyk){:target="_blank"} and [Tim Vlandas](https://timvlandas.com/){:target="_blank"}) \
 *Grant awarded:* Research England’s Higher Education Innovation Fund and the ESRC Impact Acceleration Account through the University of Oxford’s COVID-19 Urgent Response Fund \
 *Coverage:* [Nature News](https://www.nature.com/articles/d41586-021-00590-2){:target="_blank"}. \
 [video](https://youtu.be/3Fh9OIfA2MI?t=9751){: .button}{:target="_blank"}
@@ -34,7 +34,7 @@ The amount of COVID-19 related research being produced within the first weeks fo
 
 **[Causes and Consequences of Unemployment in the COVID-19 pandemic](https://doi.org/10.11587/XJNNYA){:target="_blank"}** \
 (SUF edition), 06/2022, [https://doi.org/10.11587/XJNNYA](https://doi.org/10.11587/XJNNYA){:target="_blank"}, AUSSDA, V1, \
-(joint with Daniel Schönherr). \
+(joint with [Daniel Schönherr](https://www.sora.at/ueber-sora/team/mitarbeiterinnen/daniel-schoenherr.html){:target="_blank"}). \
 [Technical report](https://www.momentum-institut.at/system/files/2021-09/sora-21086-momentum-arbeitslosen-monitor.pdf){:target="_blank"} by SORA, [summary of findings](https://www.momentum-institut.at/arbeitslosen-monitor){:target="_blank"} by Momentum Institut \
 *Coverage:* [ORF](https://oesterreich.orf.at/stories/3119573/){:target="_blank"}, ORF ZIB 1, [Heute](https://www.heute.at/s/mehrheit-schaemt-sich-fuer-ihre-arbeitslosigkeit-100161049){:target="_blank"}, [Kleine Zeitung](https://www.kleinezeitung.at/wirtschaft/6028570/Mehr-als-1200-Betroffene-befragt_Studie_Worunter-Arbeitslose-in){:target="_blank"}, [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/arbeitslose-oft-armutsgefaehrdet-108906430){:target="_blank"}, [Vorarlberg Online](https://www.vol.at/arbeitslose-oft-armutsgefaehrdet/7111464){:target="_blank"}. \
 [bibtex citation](../assets/schonherr2022unemployment.bib){: .button}{:download}

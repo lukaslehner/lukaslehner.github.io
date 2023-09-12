@@ -12,9 +12,9 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Book Chapters
 <p> </p>
 
-2) **Unemployment and Labor Market Policy**, (joint with Dennis Tamesberger), in: *Handbook of Social Infrastructure*. Edward Elgar Publishing. forthcoming.
+2) **Unemployment and Labor Market Policy**, (joint with [Dennis Tamesberger](https://www.linkedin.com/in/dennis-tamesberger-89224b11/?originalSubdomain=at){:target="_blank"}), in: *Handbook of Social Infrastructure*. Edward Elgar Publishing. forthcoming.
 
-1) **[Das Recht auf Arbeit. Wirtschaftliche und soziale Auswirkungen einer Jobgarantie](https://lukaslehner.github.io/assets/das_recht_auf_arbeit_2023.pdf){:target="_blank"}**, (joint with Maximilian Kasy). In: Elisabeth Kaiser, Marcus Schober (Eds.), *Beschäftigung für alle. Die Zukunft der Arbeit*, 92-100, Vol. 4, Vienna: ÖGB Verlag, 2023. \
+1) **[Das Recht auf Arbeit. Wirtschaftliche und soziale Auswirkungen einer Jobgarantie](https://lukaslehner.github.io/assets/das_recht_auf_arbeit_2023.pdf){:target="_blank"}**, (joint with [Maximilian Kasy](https://maxkasy.github.io/home/){:target="_blank"}). In: Elisabeth Kaiser, Marcus Schober (Eds.), *Beschäftigung für alle. Die Zukunft der Arbeit*, 92-100, Vol. 4, Vienna: ÖGB Verlag, 2023. \
 [bibtex citation](../assets/kasy2023wirtschaftliche.bib){: .button}{:download}
 
 <hr style="border:.25px solid grey">
@@ -22,7 +22,7 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Policy Reports
 <p> </p>
 
-- **[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}**, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with Mary Daly, Bernhard Ebbinghaus, Marek Naczyk and Tim Vlandas). \
+- **[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}**, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with [Mary Daly](https://www.spi.ox.ac.uk/people/professor-mary-daly){:target="_blank"}, [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"}, [Marek Naczyk](https://www.spi.ox.ac.uk/people/dr-marek-naczyk){:target="_blank"} and [Tim Vlandas](https://timvlandas.com/){:target="_blank"}). \
 [bibtex citation](../assets/daly2020policytracker.bib){: .button}{:download}
 
 <hr style="border:.25px solid grey">
@@ -30,15 +30,15 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Columns and Blogs
 <p> </p>
 
-- **[Short-time working: lessons for the next recession](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}**, Social Europe, 07/2022 (joint with Bernhard Ebbinghaus).
+- **[Short-time working: lessons for the next recession](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}**, Social Europe, 07/2022 (joint with [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"}).
 
 - **[Warum brauchen wir Vollbeschäftigung?](https://www.arbeit-wirtschaft.at/wp-content/uploads/2022/06/AW_05_2022_ES.pdf){:target="_blank"}**, Arbeit & Wirtschaft Magazin, 06/2022.
 
-- **[Einfach mehr Druck machen? Perspektiven zur Arbeitsmarktreform](https://www.derstandard.at/story/2000134046795/einfach-mehr-druck-machen-perspektiven-zur-arbeitsmarktreform){:target="_blank"}**, Der Standard: Kommentar der anderen, 03/2022 (joint with Philip Rathgeb).
+- **[Einfach mehr Druck machen? Perspektiven zur Arbeitsmarktreform](https://www.derstandard.at/story/2000134046795/einfach-mehr-druck-machen-perspektiven-zur-arbeitsmarktreform){:target="_blank"}**, Der Standard: Kommentar der anderen, 03/2022 (joint with [Philip Rathgeb](https://www.philiprathgeb.com/){:target="_blank"}).
 
-- **[Arbeitsmarktreform: Mehr Autonomie für Arbeitslose](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}**, Die Presse, 01/2022 (joint with Anna Schwarz).
+- **[Arbeitsmarktreform: Mehr Autonomie für Arbeitslose](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}**, Die Presse, 01/2022 (joint with [Anna Schwarz](https://sites.google.com/view/anna-schwarz){:target="_blank"}).
 
-- **[Labour hoarding during the pandemic: Assessing the impact of job retention schemes in Europe](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}**, LSE EUROPP: European Politics and Policy Blog, 06/2021 (joint with Bernhard Ebbinghaus).
+- **[Labour hoarding during the pandemic: Assessing the impact of job retention schemes in Europe](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}**, LSE EUROPP: European Politics and Policy Blog, 06/2021 (joint with [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"}).
 
 - **[A Year of Tracking Government Responses to COVID-19: Challenges and Lessons Learned from the Global Data Collection Efforts Around the World](https://phsmconference.files.wordpress.com/2021/04/phsm_lessons_learned_final_statement-2.pdf){:target="_blank"}**, Shared Statement by the Public Health and Social Measures Trackers participating in the First COVID-19 PHSMs Data Coverage Conference, 03/2021 (joint with Cindy Cheng, Luca Messerschmidt et al.).
 
@@ -50,7 +50,7 @@ My work informs the design of labor market policies that foster inclusive prospe
 
 - **[Has Austria’s decade-long revival of neo-corporatism come to an end?](http://blogs.lse.ac.uk/netuf/2018/01/02/has-austrias-decade-long-revival-of-neo-corporatism-come-to-an-end/?subscribe=success#blog_subscription-2){:target="_blank"}**, LSE NETUF: New European Trade Union Forum. 12/2017.
 
-- **[Brighter futures or dashed expectations? The global recovery needs to deliver gains for all](https://oecdecoscope.blog/2017/12/04/brighter-futures-or-dashed-expectations-the-global-recovery-needs-to-deliver-gains-for-all/){:target="_blank"}**, OECD ECOSCOPE Blog, 12/2017 (joint with Dorothée Rouzet).
+- **[Brighter futures or dashed expectations? The global recovery needs to deliver gains for all](https://oecdecoscope.blog/2017/12/04/brighter-futures-or-dashed-expectations-the-global-recovery-needs-to-deliver-gains-for-all/){:target="_blank"}**, OECD ECOSCOPE Blog, 12/2017 (joint with [Dorothée Rouzet](https://www.tresor.economie.gouv.fr/Articles/2023/06/20/nomination-de-dorothee-rouzet-au-poste-de-chef-economiste-du-tresor){:target="_blank"}).
 
 - **[Brexit, vielleicht sogar “Öxit“ – und was das Problem dabei ist](https://derstandard.at/2000039123601/Brexit-vielleicht-sogar-Oexit-und-was-das-Problem-dabei-ist){:target="_blank"}**, Der Standard, 06/2016.
 
