@@ -29,7 +29,7 @@ Working Papers: [Stone Center](https://stonecenter.gc.cuny.edu/research/employin
 [recording](https://youtu.be/dumq7Ixxsxc?t=0){: .button}{:target="_blank"} [slides](https://blog.oecd-berlin.de/wp-content/uploads/2022/12/Praesentation-Lukas-Lehner-Jobgarantie.pdf){: .button}{:target="_blank"} [podcast](https://www.deutschlandfunk.de/jobgarantie-beendet-langzeitarbeitslosigkeit-interview-lukas-lehner-dlf-d7eb5a78-100.html){: .button}{:target="_blank"} in German \
 [bibtex citation](../assets/kasy2023marienthal.bib){: .button}{:download}
 [code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"}
-[dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"}
+[dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"} [policy brief](https://www.inet.ox.ac.uk/files/Marienthal-job-guarantee-policy-briefing-FINAL-Sept-23.pdf){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 We evaluate a guaranteed job program launched in 2020 in Austria. Our evaluation is based on three approaches, pairwise matched randomization, a pre-registered synthetic control at the municipality level, and a comparison to individuals in control municipalities. This allows us to estimate direct effects, anticipation effects, and spillover effects.

@@ -12,15 +12,18 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Book Chapters
 <p> </p>
 
-2) **Unemployment and Labor Market Policy**, (joint with [Dennis Tamesberger](https://www.linkedin.com/in/dennis-tamesberger-89224b11/?originalSubdomain=at){:target="_blank"}), in: *Handbook of Social Infrastructure*. Edward Elgar Publishing. forthcoming.
+- **Unemployment and Labor Market Policy**, (joint with [Dennis Tamesberger](https://www.linkedin.com/in/dennis-tamesberger-89224b11/?originalSubdomain=at){:target="_blank"}), in: *Handbook of Social Infrastructure*. Edward Elgar Publishing. forthcoming.
 
-1) **[Das Recht auf Arbeit. Wirtschaftliche und soziale Auswirkungen einer Jobgarantie](https://lukaslehner.github.io/assets/das_recht_auf_arbeit_2023.pdf){:target="_blank"}**, (joint with [Maximilian Kasy](https://maxkasy.github.io/home/){:target="_blank"}). In: Elisabeth Kaiser, Marcus Schober (Eds.), *Beschäftigung für alle. Die Zukunft der Arbeit*, 92-100, Vol. 4, Vienna: ÖGB Verlag, 2023. \
+- **[Das Recht auf Arbeit. Wirtschaftliche und soziale Auswirkungen einer Jobgarantie](https://lukaslehner.github.io/assets/das_recht_auf_arbeit_2023.pdf){:target="_blank"}**, (joint with [Maximilian Kasy](https://maxkasy.github.io/home/){:target="_blank"}). In: Elisabeth Kaiser, Marcus Schober (Eds.), *Beschäftigung für alle. Die Zukunft der Arbeit*, 92-100, Vol. 4, Vienna: ÖGB Verlag, 2023. \
 [bibtex citation](../assets/kasy2023wirtschaftliche.bib){: .button}{:download}
 
 <hr style="border:.25px solid grey">
 
 ### Policy Reports
 <p> </p>
+
+- **[Universal Job Guarantee Boosts Wellbeing & Eliminates Long-Term Unemployment](https://www.inet.ox.ac.uk/files/Marienthal-job-guarantee-policy-briefing-FINAL-Sept-23.pdf){:target="_blank"}**, (joint with [Maximilian Kasy](https://maxkasy.github.io/home/){:target="_blank"} and Jess Kaplan), Oxford, UK: Institute of New Economic Thinking at the Martin School, University of Oxford, 09/2023. \
+[bibtex citation](../assets/lehner2023universal.bib){: .button}{:download}
 
 - **[Tracking Policy Responses to COVID-19: Opportunities, Challenges and Solutions](https://supertracker.spi.ox.ac.uk/assets/STBrief-1.pdf){:target="_blank"}**, Department of Social Policy and Intervention, University of Oxford, 09/2020 (joint with [Mary Daly](https://www.spi.ox.ac.uk/people/professor-mary-daly){:target="_blank"}, [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"}, [Marek Naczyk](https://www.spi.ox.ac.uk/people/dr-marek-naczyk){:target="_blank"} and [Tim Vlandas](https://timvlandas.com/){:target="_blank"}). \
 [bibtex citation](../assets/daly2020policytracker.bib){: .button}{:download}
