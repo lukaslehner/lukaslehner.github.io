@@ -33,6 +33,8 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Columns and Blogs
 <p> </p>
 
+- **[Wirtschaftliche und soziale Auswirkungen einer Jobgarantie am Beispiel Marienthal](https://awblog.at/wirtschaftliche-und-soziale-auswirkungen-einer-jobgarantie/){:target="_blank"}**, (joint with [Maximilian Kasy](https://maxkasy.github.io/home/){:target="_blank"}), Arbeit & Wirtschaft Blog, 09/2023.
+
 - **[Short-time working: lessons for the next recession](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}**, Social Europe, 07/2022 (joint with [Bernhard Ebbinghaus](https://ebbinghaus.blog/){:target="_blank"}).
 
 - **[Warum brauchen wir Vollbeschäftigung?](https://www.arbeit-wirtschaft.at/wp-content/uploads/2022/06/AW_05_2022_ES.pdf){:target="_blank"}**, Arbeit & Wirtschaft Magazin, 06/2022.
