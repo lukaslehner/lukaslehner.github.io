@@ -8,7 +8,7 @@ title: Lukas Lehner
 
 ### Hi,
 
-I am a PhD candidate at the [University of Oxford](https://www.spi.ox.ac.uk/people/lukas-lehner#/){:target="_blank"}. Previously, I was a visiting scholar at UC Berkeley and at MIT, and worked at the OECD and the International Labour Organization.
+I am a PhD candidate at the [University of Oxford](https://www.spi.ox.ac.uk/people/lukas-lehner#/){:target="_blank"} and research fellow at Bocconi University. Previously, I was a visiting scholar at UC Berkeley and at MIT, and worked at the OECD and the International Labour Organization.
 
 My research focuses on labor market policies in a changing world of work with a focus on unemployment and worker bargaining power. In 2020, I founded the [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/){:target="_blank"} to understand policy responses to the pandemic.
 
