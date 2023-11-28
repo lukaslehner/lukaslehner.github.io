@@ -39,6 +39,29 @@ We find positive impacts of program participation on economic and non-economic w
 </details>
 <p> </p>
 
+**Reframing Active Labor Market Policy: Field Experiments on Barriers to Program Participation** \
+(joint with [Anna Schwarz](https://sites.google.com/view/anna-schwarz){:target="_blank"}) \
+*Experiment in progress, 2021-2023*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
+*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
+Awarded the Austrian Economic Association (NOeG) Dissertation Fellowship \
+[bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
+[code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+
+Governments struggle to attract unemployed workers to their widely offered job training
+programs. In three randomized field experiments with 50,000 job seekers, we investigate the
+potential of informational interventions to encourage participation in job training programs.
+Raising awareness about the availability of job training increased program enrollment by 18%.
+Signaling program cost with a voucher to reduce internalized stigma increased completion
+by 28%. Effects were sizable and concentrated among women and low-income job seekers.
+Notably, job training did not result in higher employment or wages. These findings indicate
+that while low-cost informational interventions effectively boost participation, the overall
+success of job training programs in enhancing employment prospects hinges on their fundamental
+design.
+  </details>
+<p> </p>
+
 **[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, INET Oxford Working Paper No. 2022-04 \
 (joint with [Paul Ramskogler](https://www.oenb.at/en/Monetary-Policy/Research/economists/paul-ramskogler.html){:target="_blank"} and [Aleksandra Riedl](https://www.oenb.at/en/Monetary-Policy/Research/economists/aleksandra-riedl.html){:target="_blank"}) \
 *Awards:* \
@@ -48,9 +71,17 @@ We find positive impacts of program participation on economic and non-economic w
 <details>
   <summary>Abstract</summary>
 
-Does the structure of labor markets – and the possibility to employ temporary workers – affect aggregate wage growth? After the global financial crisis (GFC) a rich debate had ensued about the reasons for the delayed pick up of wage growth. However, structural labor market aspects remained strangely absent from this discussion. We contribute by incorporating labor market dualization into the standard Phillips curve model to explain wage growth in 30 European countries in the period 2004-2017.
+As temporary employment has become a pervasive feature of modern labor markets, reasons for wage growth have become less well understood. To determine whether these two phenomena are related, we investigate whether the dualized structure of labor markets affects macroeconomic developments. Specifically, we incorporate involuntary temporary workers into the standard wage Phillips curve to examine wage growth in 30 European countries for the period 2004-2017. Relying on individual-level data to adjust for a changing employment composition, we show, for the first time, that the incidence of involuntary temporary workers has strong negative effects on aggregate wage growth. This effect, which we name the competition effect, is particularly pronounced in countries where wage bargaining institutions are weak. Our findings shed further light on the reasons for the secular slowdown of wage growth after the global financial crisis.
+</details>
 <p> </p>
-We find that the presence of workers with temporary contracts in Europe’s labor markets slows down aggregate wage growth due to the competition that temporary workers exert on permanent workers. This competition effect is most pronounced in countries, where trade union density is low. Moreover, we establish that labor market dualization has been at least as important in slowing wage growth since the GFC as unemployment, i.e. the observed flattening of the Phillips curve.
+
+**Worker Organization and Firm Performance: New Evidence from Union Membership Registries** \
+(joint with [Emanuel List](https://sites.google.com/view/emanuellist){:target="_blank"}) \
+Awarded the [OeNB Anniversary Fund Grant 2023 - 2025](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds/projektabfrage.html){:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+
+What do unions do to workers' wages and firm performance? We exploit union membership registries in Austria to understand the relationship between worker organization and firm performance. The results demonstrate that worker organization goes hand in hand with higher wages without negative implications for labor productivity or firm profits. Works councils are more important than union density. Union density matters at the sectoral level where collective bargaining takes place while works councils shape wages at the firm level. Works councils matter most for low-road employers, while union density affects particularly high-road employers, consistent with rent-sharing theories.
 </details>
 
 <hr style="border:.25px solid grey">
@@ -58,18 +89,15 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 ### Work in Progress
 <p> </p>
 
-**Reframing Active Labor Market Policy: Field Experiments on Barriers to Program Participation** \
-(joint with [Anna Schwarz](https://sites.google.com/view/anna-schwarz){:target="_blank"}) \
-*Experiment in progress, 2021-2023*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. \
-*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}. \
-Awarded the Austrian Economic Association (NOeG) Dissertation Fellowship \
-[bibtex citation](../assets/lehner2021reframing.bib){: .button}{:download}
-[code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"}
+- “What Do Unemployed Workers Want: Guaranteed Work or Guaranteed Income?”
 
+- "Declining Earnings Inequality but Rising Income Inequality: What Explains the Discordant Trends?", (joint with Zachary Parolin and Nathan Wilmers)
 
-**Worker Organization and Firm Performance: New Evidence from Union Membership Registries** \
-(joint with [Emanuel List](https://sites.google.com/view/emanuellist){:target="_blank"}) \
-Awarded the [OeNB Anniversary Fund Grant 2023 - 2025](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds/projektabfrage.html){:target="_blank"}
+- "Do Job Seekers benefit from Occupational Mobility?", \
+(joint with Ishaana Talesara and Arthur Wickard)
+
+- "Do Minimum Wages reduce Poverty?", \
+(joint with Zachary Parolin)
 
 <hr style="border:.25px solid grey">
 
