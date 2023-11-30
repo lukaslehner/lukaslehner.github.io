@@ -49,16 +49,7 @@ Awarded the Austrian Economic Association (NOeG) Dissertation Fellowship \
 <details>
   <summary>Abstract</summary>
 
-Governments struggle to attract unemployed workers to their widely offered job training
-programs. In three randomized field experiments with 50,000 job seekers, we investigate the
-potential of informational interventions to encourage participation in job training programs.
-Raising awareness about the availability of job training increased program enrollment by 18%.
-Signaling program cost with a voucher to reduce internalized stigma increased completion
-by 28%. Effects were sizable and concentrated among women and low-income job seekers.
-Notably, job training did not result in higher employment or wages. These findings indicate
-that while low-cost informational interventions effectively boost participation, the overall
-success of job training programs in enhancing employment prospects hinges on their fundamental
-design.
+Governments struggle to attract unemployed workers to their widely offered job training programs. In three randomized field experiments with 50,000 job seekers, we investigate the barriers to participation in job training programs by using informational interventions designed to encourage participation. Raising awareness about the availability of job training increased program enrollment by 18\%. Signaling program cost with a voucher on top to reduce internalized stigma increased completion by 28\%. Effects were sizable and concentrated among women and low-income job seekers. Notably, increased job training did not result in higher employment or wages. These findings indicate that while low-cost informational interventions effectively boost participation, the overall success of job training programs in enhancing employment prospects hinges on their fundamental design.
   </details>
 <p> </p>
 
@@ -81,7 +72,7 @@ Awarded the [OeNB Anniversary Fund Grant 2023 - 2025](https://www.oenb.at/Ueber-
 <details>
   <summary>Abstract</summary>
 
-What do unions do to workers' wages and firm performance? We exploit union membership registries in Austria to understand the relationship between worker organization and firm performance. The results demonstrate that worker organization goes hand in hand with higher wages without negative implications for labor productivity or firm profits. Works councils are more important than union density. Union density matters at the sectoral level where collective bargaining takes place while works councils shape wages at the firm level. Works councils matter most for low-road employers, while union density affects particularly high-road employers, consistent with rent-sharing theories.
+Do unions increase workers' wages at the expense of firm performance? For the first time at the national level, we exploit union membership records in Austria to understand this relationship. We show that worker organization goes hand in hand with higher wages without negative implications for labor productivity or firm profits. Works councils are more important than union density. Union density matters at the sectoral level where collective bargaining takes place while works councils shape wages at the firm level. Works councils matter most for low-road employers, while union density affects particularly high-road employers, consistent with rent-sharing theories.
 </details>
 
 <hr style="border:.25px solid grey">
