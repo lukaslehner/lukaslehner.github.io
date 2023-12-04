@@ -89,6 +89,8 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- "[Als Gramatneusiedl die Arbeitslosigkeit abschaffte](https://www.spiegel.de/ausland/oesterreich-als-gramatneusiedl-die-arbeitslosigkeit-abschaffte-aus-fuer-erfolgsexperiment-a-e704af2e-b6f0-486d-ab80-920bae79740d){:target="_blank"}", **Der Spiegel**, 12/2023.
+
 - [Gramatneusiedl: Wie sich eine Jobgarantie auf Langzeitarbeitslosigkeit auswirkt](https://kompetenz-online.at/2023/09/12/gramatneusiedl-wie-sich-eine-jobgarantie-auf-langzeitarbeitslosigkeit-auswirkt/){:target="_blank"}, **Kompetenz**, 09/2023.
 
 - [Garantierte Arbeit in Marienthal. Was passiert, wenn Arbeitslosigkeit neu gedacht wird?](https://www.ksoe.at/pages/ksoe_update/podcast/podcast361gradsozialko/article/145003.html){:target="_blank"}, **KSOE**, 09/2023. [podcast](https://www.ksoe.at/pages/ksoe_update/podcast/podcast361gradsozialko/article/145003.html){: .button}{:target="_blank"}
