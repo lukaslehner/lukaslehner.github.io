@@ -89,6 +89,8 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- "[Arbeitsmarktexperte: „Ohne Arbeit gehen Strukturen verloren“](https://www.diepresse.com/17896098/arbeitsmarktexperte-ohne-arbeit-gehen-strukturen-verloren){:target="_blank"}", **Die Presse**, 12/2023.
+
 - "[Als Gramatneusiedl die Arbeitslosigkeit abschaffte](https://www.spiegel.de/ausland/oesterreich-als-gramatneusiedl-die-arbeitslosigkeit-abschaffte-aus-fuer-erfolgsexperiment-a-e704af2e-b6f0-486d-ab80-920bae79740d){:target="_blank"}", **Der Spiegel**, 12/2023.
 
 - [Gramatneusiedl: Wie sich eine Jobgarantie auf Langzeitarbeitslosigkeit auswirkt](https://kompetenz-online.at/2023/09/12/gramatneusiedl-wie-sich-eine-jobgarantie-auf-langzeitarbeitslosigkeit-auswirkt/){:target="_blank"}, **Kompetenz**, 09/2023.
