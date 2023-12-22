@@ -53,18 +53,6 @@ Governments struggle to attract unemployed workers to their widely offered job t
   </details>
 <p> </p>
 
-**[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, INET Oxford Working Paper No. 2022-04 \
-(joint with [Paul Ramskogler](https://www.oenb.at/en/Monetary-Policy/Research/economists/paul-ramskogler.html){:target="_blank"} and [Aleksandra Riedl](https://www.oenb.at/en/Monetary-Policy/Research/economists/aleksandra-riedl.html){:target="_blank"}) \
-*Awards:* \
-&ensp; [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at DSPI, Oxford \
-&ensp; [SASE / Digit 2022 Early Career Workshop Award](https://sase.org/workshop/2022-sase-digit-early-career-workshop/). \
-[bibtex citation](../assets/lehner2022wages.bib){: .button}{:download}
-<details>
-  <summary>Abstract</summary>
-
-As temporary employment has become a pervasive feature of modern labor markets, reasons for wage growth have become less well understood. To determine whether these two phenomena are related, we investigate whether the dualized structure of labor markets affects macroeconomic developments. Specifically, we incorporate involuntary temporary workers into the standard wage Phillips curve to examine wage growth in 30 European countries for the period 2004-2017. Relying on individual-level data to adjust for a changing employment composition, we show, for the first time, that the incidence of involuntary temporary workers has strong negative effects on aggregate wage growth. This effect, which we name the competition effect, is particularly pronounced in countries where wage bargaining institutions are weak. Our findings shed further light on the reasons for the secular slowdown of wage growth after the global financial crisis.
-</details>
-<p> </p>
 
 **Worker Organization and Firm Performance: New Evidence from Union Membership Registries** \
 (joint with [Emanuel List](https://sites.google.com/view/emanuellist){:target="_blank"}) \
@@ -93,6 +81,20 @@ Do unions increase workers' wages at the expense of firm performance? For the fi
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
+<p> </p>
+
+
+5) **[Begging thy coworker - Labor market dualization and the wage growth slow-down in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, *Industrial and Labor Relations Review*, forthcoming. \
+(joint with [Paul Ramskogler](https://www.oenb.at/en/Monetary-Policy/Research/economists/paul-ramskogler.html){:target="_blank"} and [Aleksandra Riedl](https://www.oenb.at/en/Monetary-Policy/Research/economists/aleksandra-riedl.html){:target="_blank"}) \
+*Awards:* \
+&ensp; [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at DSPI, Oxford \
+&ensp; [SASE / Digit 2022 Early Career Workshop Award](https://sase.org/workshop/2022-sase-digit-early-career-workshop/). \
+[bibtex citation](../assets/lehner2022wages.bib){: .button}{:download}
+<details>
+  <summary>Abstract</summary>
+
+As temporary employment has become a pervasive feature of modern labor markets, reasons for wage growth have become less well understood. To determine whether these two phenomena are related, we investigate whether the dualized structure of labor markets affects macroeconomic developments. Specifically, we incorporate involuntary temporary workers into the standard wage Phillips curve to examine wage growth in 30 European countries for the period 2004-2017. Relying on individual-level data to adjust for a changing employment composition, we show, for the first time, that the incidence of involuntary temporary workers has strong negative effects on aggregate wage growth. This effect, which we name the competition effect, is particularly pronounced in countries where wage bargaining institutions are weak. Our findings shed further light on the reasons for the secular slowdown of wage growth after the global financial crisis.
+</details>
 <p> </p>
 
 4) **[Capturing the COVID-19 Crisis through Public Health and Social Measures Data Science](https://doi.org/10.1038/s41597-022-01616-8){:target="_blank"}**, *Scientific Data*, 2022, 9, 520. \
