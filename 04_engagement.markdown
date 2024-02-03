@@ -89,6 +89,8 @@ My work informs the design of labor market policies that foster inclusive prospe
 ### Selected Interviews and Media Quotes
 <p> </p>
 
+- "[Zu hoch oder zu niedrig? Österreichs Arbeitslosengeld im Vergleich](https://kurier.at/wirtschaft/arbeitslosigkeit-arbeitslosengeld-ams-oecd-vergleich-nettoersatzrate/402766129){:target="_blank"}", **Kurier**, 02/2024.
+
 - "[Arbeitsmarktexperte: „Ohne Arbeit gehen Strukturen verloren“](https://www.diepresse.com/17896098/arbeitsmarktexperte-ohne-arbeit-gehen-strukturen-verloren){:target="_blank"}", **Die Presse**, 12/2023.
 
 - "[Als Gramatneusiedl die Arbeitslosigkeit abschaffte](https://www.spiegel.de/ausland/oesterreich-als-gramatneusiedl-die-arbeitslosigkeit-abschaffte-aus-fuer-erfolgsexperiment-a-e704af2e-b6f0-486d-ab80-920bae79740d){:target="_blank"}", **Der Spiegel**, 12/2023.
