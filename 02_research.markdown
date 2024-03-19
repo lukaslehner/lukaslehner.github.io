@@ -53,6 +53,15 @@ Governments struggle to attract unemployed workers to their widely offered job t
   </details>
 <p> </p>
 
+**Declining Earnings Inequality, Rising Income Inequality: What Explains Discordant Inequality Trends in the United States?** \
+(joint with [Zachary Parolin](https://www.zachparolin.com/){:target="_blank"} and [Nathan Wilmers](https://www.nathanwilmers.com/){:target="_blank"})
+
+<details>
+  <summary>Abstract</summary>
+
+From 2010 to 2019, personal earnings inequality declined in the United States (U.S.) for the first time in decades, yet household income inequality continued to increase. Discordance between the inequality trends reached its highest rate in recent history. We introduce a framework to decompose differences in inequality trends. We find that 46% of post-2010 discordance is due to changing household composition, namely a larger share of young workers living with their parents and combining low personal earnings with high household incomes. The remaining discordance stems from increases in private income among higher-earning households and declining redistributive effects of government transfers.
+</details>
+<p> </p>
 
 **Worker Organization and Firm Performance: New Evidence from Union Membership Registries** \
 (joint with [Emanuel List](https://sites.google.com/view/emanuellist){:target="_blank"}) \
@@ -68,15 +77,13 @@ Do unions increase workers' wages at the expense of firm performance? For the fi
 ### Work in Progress
 <p> </p>
 
-- “What Do Unemployed Workers Want: Guaranteed Work or Guaranteed Income?”
+- “What Do Unemployed Workers Want: Guaranteed Jobs or Guaranteed Income?”
 
-- "Declining Earnings Inequality but Rising Income Inequality: What Explains the Discordant Trends?", (joint with Zachary Parolin and Nathan Wilmers)
-
-- "Do Job Seekers benefit from Occupational Mobility?", \
-(joint with Ishaana Talesara and Arthur Wickard)
+- "Worker Employment Risk Perceptions: Consequences for Wages, Job Search, and Separation Rates", \
+(joint with [Ishaana Talesara](https://economics.mit.edu/people/phd-students/ishaana-talesara){:target="_blank"} and [Arthur Wickard](https://economics.mit.edu/people/phd-students/arthur-wickard){:target="_blank"})
 
 - "Do Minimum Wages reduce Poverty?", \
-(joint with Zachary Parolin)
+(joint with Hannah Massenbauer and [Zachary Parolin](https://www.zachparolin.com/){:target="_blank"})
 
 <hr style="border:.25px solid grey">
 

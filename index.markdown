@@ -8,11 +8,13 @@ title: Lukas Lehner
 
 ### Hi,
 
-I am a PhD candidate at the [University of Oxford](https://www.spi.ox.ac.uk/people/lukas-lehner#/){:target="_blank"} and research fellow at Bocconi University. Previously, I was a visiting scholar at UC Berkeley and at MIT, and worked at the OECD and the International Labour Organization.
+I am a PhD candidate at the [University of Oxford](https://www.spi.ox.ac.uk/people/lukas-lehner#/){:target="_blank"} and research fellow at Bocconi University.
 
-As an applied microeconomist, my research focuses on labor economics at the intersection of public economics. I investigate social policies in a changing world of work with a focus on unemployment and worker bargaining power. In 2020, I founded the [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/){:target="_blank"} to understand policy responses to the pandemic.
+I investigate social policies in a changing world of work with a focus on unemployment, poverty, and worker bargaining power.
 
-My research was recognized by several awards including the Best Paper Award in Social Policy at the University of Oxford and the ESRC Prize for Outstanding Early Career Impact. My work has been featured by *The New Yorker*, *Financial Times*, CNN and *Nature* in print and by ARTE, ARD, and ZDF on TV.
+My research was recognized by several awards including the Best Paper Award in Social Policy at the University of Oxford and the ESRC Prize for Outstanding Early Career Impact. My work has been featured by *The New Yorker*, *Financial Times*, CNN and *Nature* in print and by ARTE, ARD, and ZDF on TV. 
+
+Previously, I was a visiting scholar at UC Berkeley and at MIT, and worked at the OECD and the International Labour Organization. In 2020, I founded the [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/){:target="_blank"} to understand policy responses to the pandemic. 
 
 Feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk), [Twitter](https://twitter.com/LukasLehner_){:target="_blank"} or [BlueSky](https://bsky.app/profile/lukaslehner.bsky.social){:target="_blank"}.
 
