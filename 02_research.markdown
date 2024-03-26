@@ -53,7 +53,7 @@ Governments struggle to attract unemployed workers to their widely offered job t
   </details>
 <p> </p>
 
-**Declining Earnings Inequality, Rising Income Inequality: What Explains Discordant Inequality Trends in the United States?** \
+**[Declining Earnings Inequality, Rising Income Inequality: What Explains Discordant Inequality Trends in the United States?](https://docs.iza.org/dp16874.pdf){:target="_blank"}** \
 (joint with [Zachary Parolin](https://www.zachparolin.com/){:target="_blank"} and [Nathan Wilmers](https://www.nathanwilmers.com/){:target="_blank"})
 
 <details>
